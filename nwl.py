@@ -1,20 +1,9 @@
-print 'this is a version of the nwl alignment algorithm that uses features, \
-instead of penalties/rewards to create the matrix. This, ideally, should be \
-the way of the future, because (again, ideally) it will provide a way to \
-fine-tune the alignment principles a little bit more.  This version of \
-the module has been modified from the traditional in two ways: \
-- it is more lax about what is considered a match (2 feature differences are \
-acceptable) \
-- it automatically assigns the value of the cell diagonally up and left of \
-a given one provided \n'
 
-###############################################################################
 from numpy import zeros 
 from resources.features import *
-###############################################################################
 
 ###############################################################################
-unknown_chars = []	# list for collecting unprocessed phonemes
+unknown_chars = []	# list for collecting phonemes unknown to the program
 
 ###############################################################################
 def compare_features(s1, s2, ft=FEATURES):
@@ -41,9 +30,7 @@ def compare_features(s1, s2, ft=FEATURES):
 			if ft[s1][indx] != ft[s2][indx]:
 				score += 1
 		except IndexError:
-#			print s1, s2
 			score = None
-#	print score, s1, s2
 	return score
 	
 
@@ -69,29 +56,17 @@ def build_matrix(s1, s2, ft=FEATURES):
 	mat_rows = len(s1)
 	mat_cols = len(s2)
 	
-	'''the below statements attempt to create a numpy n-dimensional array.
-	these arrays are considered faster than regular 2-d python lists. They
-	also contain some useful functionality like the .shape attribute, used
-	later on in the program. 
-	if for some reason, the numpy module was not imported successfully and
-	the array fails to initialize this way, we simply create a regular
-	2-d list using a list comprehension expression.
-	this whole routine was borrowed from the code found at snippets.com
-	(see acknowledgements), I'm not sure yet whether it is worthwhile
-	to keep it.
+	try: #this tries to create an numpy 2d array 
+		mat = zeros((mat_rows, mat_cols))
+	except importError: #if this fails, create regular list of lists 
+		mat = [[0]*mat_cols for i in range(mat_rows)]
 
-	'''
-	try:
-        	mat = zeros((mat_rows, mat_cols))
-    	except importError:
-        	mat = [[0]*mat_cols for i in range(mat_rows)]
-
-    	for row in range(mat_rows):
-        	for col in range(mat_cols):
+	for row in range(mat_rows):
+		for col in range(mat_cols):
 			up = mat[row-1][col]
 			left = mat[row][col-1]
 			diag = mat[row-1][col-1] 
-			'''Find the score for comparing two segments'''
+			#Find score for comparing two segments
 			if row == 0 and col == 0:
 				pass
 			elif s1[row] == '_':
@@ -196,6 +171,7 @@ def full_traceback(mat,paths,starter,row,col,pth=[]):
 				#this is the case of branching
 				full_traceback(mat,paths,member,*member,pth=PATH)
 			else:
+				#the case of only one solution
 				full_traceback(mat,paths,starter,*member,pth=PATH)
 
 ###############################################################################
@@ -228,44 +204,14 @@ def create_strings(str1,str2,mat,paths):
 	"""
 #------------------------------------------------------------------------------
 	def calc_align_score(alignment, mat):
-		'''This method calculates the overall score for a given alignment.
-		this is later used to compare alignment scores to find the optimal one.
-
-		arguments:
-		alignment --> a sequence of tuples represents one possible alignment
-		mat --------> the ever-present matrix
-		
-		'''
 		return sum([mat[point[0]][point[1]] for point in alignment])
 
 #------------------------------------------------------------------------------
 	def path_score(paths,mat):
-		'''A method for converting a list of possible alignments
-		into a list of said alignments paired with their corresponding scores
-		as tuples.
-
-		arguments:
-		paths ----> a list of lists of tuples, the list of possible paths
-		mat ----> the matrix, used to calculate the overall score for
-		a given alignment/path
-
-		'''
 		return [(calc_align_score(path,mat), path) for path in paths]
 
 #------------------------------------------------------------------------------
 	def direction(point1,point2):
-		'''Method for returning the difference between the
-		coordinates of two cells. This method was defined because I know
-		of no in-built way to subtract one tuple from another. I use this method
-		to figure out what direction a given path is going in in the matrix.
-		this, in turn is used to determine how to align strings based on a 
-		sequence of coordinates.
-		
-		arguments:
-		point1 --> a tuple of coordinates for the first point
-		point2 --> a tuple of coordinates for the second point
-
-		'''
 		return (point1[0]-point2[0], point1[1]-point2[1])
 
 #------------------------------------------------------------------------------
@@ -281,15 +227,12 @@ def create_strings(str1,str2,mat,paths):
 		for indx in range(len(seq)):
 			if indx+1 in range(len(seq)):
 				if direction(seq[indx],seq[indx+1]) == diagonal:
-#					print 'diagonal'
 					alignment.insert(0,(str1[seq[indx][0]],
 							 str2[seq[indx][1]]))
 				elif direction(seq[indx],seq[indx+1]) == up:
-#					print 'up'
 					alignment.insert(0,(str1[seq[indx][0]],
 								 '_'))
 				elif direction(seq[indx],seq[indx+1]) == left:
-#					print 'left'
 					alignment.insert(0,('_',
 							 str2[seq[indx][1]]))
 			else:
@@ -312,12 +255,10 @@ def align(str1,str2,ft=FEATURES):
 	str1.insert(0,'_') 
 	str2.insert(0, '_')
 	matrix = build_matrix(str1,str2,ft)
-#	print matrix
+	#print matrix
 	if matrix == None:
 		return
 	else:
 		starting_cell = (matrix.shape[0]-1,matrix.shape[1]-1)
 		all_aligns = find_all_aligns(matrix,starting_cell)
-#		print create_strings(str1,str2,matrix,all_aligns)
-#		print '#'*70, '\n'
 		return create_strings(str1,str2,matrix,all_aligns)

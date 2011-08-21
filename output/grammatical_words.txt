@@ -1,0 +1,7 @@
+Below are the suffixes that were considered ungrammatical by LAML upon my first run of the program on a dataset of grammatical (attested) words of russian. These suffixes attracted my attention because there was supposed to be no
+such suffixes in this dataset and their presence can illustrate some weaknesses of either our algorithm or bugs in the code itself.
+
+_ ʃ vʲ =  we were missing a character at the beginning of a word, and the program thot this was a suffix. Adding the missing character fixed the problem.
+j ó _ = This one is an interesting case: according to our feature library, 'j' is considered a vowel (this is up for discussion what we should consider it). Our program correctly assumed that ó only occured after consonants, so it flagged this input as ungrammatical. I have changed the value of 'j' to be a consonant, this, however, did not resolve the problem, because according to our feature library, 'j' is (correctly) considered unrounded, whereas the enviro of ó stipulates that a segment needs to be rounded. Upon further inspection I also found that a whole host of other features will prevent this word from being considered grammatical, most of them having to do with 'j' being considered a vowel.
+\xca\xa7\xca\xb2 e k = A yer word creeped in to our dataset.
+g o lʲ = ugol', yet another pesky yer :)

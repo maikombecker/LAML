@@ -4843,8 +4843,6 @@ g o l u b ó ʧʲ e k	g o l u b ó ʧʲ k a
 g o l ú b ʧʲ i k	g o l ú b ʧʲ i k a
 g ó l u bʲ	g ó l u bʲ a
 g o l u bʲ á t nʲ i k	g o l u bʲ á t nʲ i k a
-g o l u bʲ á t nʲ i k	g o l u bʲ á t nʲ i k a
-g o l í ʃ	g o l i ʃ á
 g o l í ʃ	g o l i ʃ á
 g ó lʲ	g ó lʲ i
 g ó lʲ d	g ó lʲ d a
@@ -25998,18 +25996,12 @@ u g o l ó v nʲ i k	u g o l ó v nʲ i k a
 u g o l ó v n i j	u g o l ó v n o g o
 u g o l ó ʧʲ e k	u g o l ó ʧʲ k a
 ú g o lʲ	ú g lʲ a
-ú g o lʲ	ú g lʲ a
-ú g o lʲ	u g lʲ á
 ú g o lʲ nʲ i k	ú g o lʲ nʲ i k a
-u g ó lʲ nʲ i k	u g ó lʲ nʲ i k a
-ú g o lʲ nʲ i k	ú g o lʲ nʲ i k a
-ú g o lʲ ʃʃʲ i k	ú g o lʲ ʃʃʲ i k a
 ú g o lʲ ʃʃʲ i k	ú g o lʲ ʃʃʲ i k a
 u g o m ó n	u g o m ó n a
 u g ó n	u g ó n a
 u g ó n ʃʃʲ i k	u g ó n ʃʃʲ i k a
 u g o rʲ ó k	u g o rʲ k á
-ú g o rʲ	u g rʲ á
 ú g o rʲ	u g rʲ á
 u g ó rʲ j e	u g ó rʲ j a
 u g o ʃʃʲ é nʲ i j e	u g o ʃʃʲ é nʲ i j a
@@ -43417,7 +43409,6 @@ x u t o rʲ á n k a	x u t o rʲ á n kʲ i
 ʃʃ ú p a lʲ ʦ e	ʃʃ ú p a lʲ ʦ a
 ʃʃ ú ʧʲ i n a	ʃʃ ú ʧʲ i n i
 ʃʃ ú ʧʲ k a	ʃʃ ú ʧʲ kʲ i
-ʃʃ ú ʧʲ k a	ʃʃ ú ʧʲ kʲ i
 e b u l lʲ i o s k o pʲ í j a	e b u l lʲ i o s k o pʲ í j i
 e v a k u á ʦ i j a	e v a k u á ʦ i j i
 e v a lʲ v á ʦ i j a	e v a lʲ v á ʦ i j i
@@ -43764,7 +43755,6 @@ j á m o ʧʲ k a	j á m o ʧʲ kʲ i
 j a m ʃʃʲ í n a	j a m ʃʃʲ í n i
 j a p o nʲ í s tʲ i k a	j a p o nʲ í s tʲ i kʲ i
 j a p ó n k a	j a p ó n kʲ i
-j á r	j á r a
 j á r	j á r a
 j a r á n g a	j a r á n gʲ i
 j á rʲ i ʦ a	j á rʲ i ʦ i

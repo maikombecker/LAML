@@ -4,872 +4,860 @@
 # In this case our data is very small and will be used only as an
 # example of the way the program works for new users.
 #ʃ é lʲ e s t	t r a n s p a r a n t
-a b z á ʦ	a b z á ʦ a
-#ʃ é lʲ e s t	ʃ é lʲ e s t a
-b a r á nʲ e ʦ	b a r á n ʦ a
-b a r á n o k	b a r á n k a
-#l u ʒ é nʲ i j e	l u ʒ é nʲ i j a
-#z a s á s i v a nʲ i j e	z a s á s i v a nʲ i j a
-#ʒ i tʲ j í ʃ k o	ʒ i tʲ j í ʃ k a
-#z a v ó d s kʲ i j	z a v ó d s k o g o
-#z a v o d s k ó j	z a v o d s k ó g o
+# Below words are yers
+#b a r á nʲ e ʦ	b a r á n ʦ a
+#b a r á n o k	b a r á n k a
 #z a d ó k	z a d k á
 #lʲ é v	lʲ é v a
-lʲ é v	lʲ v á
+#lʲ é v	lʲ v á
 #ʧʲ e s n o ʧʲ ó k	ʧʲ e s n o ʧʲ k á
+# tʲ e s a ʧʲ ó k	tʲ e s a ʧʲ k á
+#lʲ ó d	lʲ d á
+# m ó x	m x á
+# bʲ e s ʦ é n o k	bʲ e s ʦ é n k a
+# vʲ e tʲ e r ó k	vʲ e tʲ e r k á
+# vʲ e n ó k	vʲ e n k á
+# vʲ e n ó ʧʲ e k	vʲ e n ó ʧʲ k a
+# vʲ é nʲ i ʧʲ e k	vʲ é nʲ i ʧʲ k a
+# vʲ é nʲ e ʦ	vʲ é n ʦ a
+# vʲ e nʲ e ʦ i á nʲ e ʦ	vʲ e nʲ e ʦ i á n ʦ a
+# vʲ e n zʲ e lʲ ó k	vʲ e n zʲ e lʲ k á
+# vʲ e nʲ e s u é lʲ e ʦ	vʲ e nʲ e s u é lʲ ʦ a
+# z á m i sʲ e l	z á m i s l a
+# z a m ó ʧʲ e k	z a m ó ʧʲ k a
+# z á m o r o z o k	z á m o r o z k a
+# z á m o k	z á m k a
+# lʲ a g u ʃ ó n o k	lʲ a g u ʃ ó n k a
+# lʲ u b ó vʲ	lʲ u b vʲ í
+# lʲ vʲ ó n o k	lʲ vʲ ó n k a
+# l u ʧʲ ó k	l u ʧʲ k á
+# tʲ e n o r ó k	tʲ e n o r k á
+# tʲ e nʲ ó ʧʲ e k	tʲ e nʲ ó ʧʲ k a
+# tʲ e nʲ ó k	tʲ e nʲ k á
+# tʲ e l ó k	tʲ e l k á
+# tʲ e lʲ é ʦ	tʲ e lʲ ʦ á
+# tʲ e lʲ ó n o ʧʲ e k	tʲ e lʲ ó n o ʧʲ k a
+# tʲ e lʲ ó n o k	tʲ e lʲ ó n k a
+# tʲ e kʲ í nʲ e ʦ	tʲ e kʲ í n ʦ a
+# t v o rʲ é ʦ	t v o r ʦ á
+#
+#
+# Below words are non-yer words
+ʃ é lʲ e s t	ʃ é lʲ e s t a
+a b z á ʦ	a b z á ʦ a
+l u ʒ é nʲ i j e	l u ʒ é nʲ i j a
+z a s á s i v a nʲ i j e	z a s á s i v a nʲ i j a
+ʒ i tʲ j í ʃ k o	ʒ i tʲ j í ʃ k a
+z a v ó d s kʲ i j	z a v ó d s k o g o
+z a v o d s k ó j	z a v o d s k ó g o
 ú ʧʲ a s tʲ	ú ʧʲ a s tʲ i
-#d lʲ i n á	d lʲ i n í
-#ʧʲ é ʃ k a	ʧʲ é ʃ kʲ i
-#ʧʲ i s t o p lʲ ú j k a	ʧʲ i s t o p lʲ ú j kʲ i
-#ʃ a r á ʃ k a	ʃ a r á ʃ kʲ i
+d lʲ i n á	d lʲ i n í
+ʧʲ é ʃ k a	ʧʲ é ʃ kʲ i
+ʧʲ i s t o p lʲ ú j k a	ʧʲ i s t o p lʲ ú j kʲ i
+ʃ a r á ʃ k a	ʃ a r á ʃ kʲ i
 ʧʲ u ʒ bʲ í n a	ʧʲ u ʒ bʲ í n i
-#z v ú k o pʲ i sʲ	z v ú k o pʲ i sʲ i
+z v ú k o pʲ i sʲ	z v ú k o pʲ i sʲ i
 j a j ʦ ó	j a j ʦ á
 s t rʲ e mʲ a	s t rʲ e mʲ e n i
 bʲ e z v ó dʲ j e	bʲ e z v ó dʲ j a
-#mʲ e l o v ʃ ʃʲ í k	mʲ e l o v ʃ ʃʲ i k á
-#mʲ e t a bʲ i ó z	mʲ e t a bʲ i ó z a
-#m u r á ʃ	m u r a ʃ á
-# tʲ e s a ʧʲ ó k	tʲ e s a ʧʲ k á
-# k ó l	k o l á
+mʲ e l o v ʃ ʃʲ í k	mʲ e l o v ʃ ʃʲ i k á
+mʲ e t a bʲ i ó z	mʲ e t a bʲ i ó z a
+m u r á ʃ	m u r a ʃ á
+k ó l	k o l á
 m á tʲ	m á tʲ e r i
-# ʒ í r	ʒ í r a
-# z a b ó rʲ i ʃʃʲ e	z a b ó rʲ i ʃʃʲ i
-# z a v ó dʲ i ʃʃʲ e	z a v ó dʲ i ʃʃʲ i
-# z a ʧʲ é s tʲ sʲ a	z a ʧʲ tʲ ó m sʲ a
-# zʲ é n kʲ e r	zʲ é n kʲ e r a
-# k a dʲ é t	k a dʲ é t a
-# k á p sʲ e lʲ	k á p sʲ e lʲ a
-# k a rʲ é l	k a rʲ é l a
-# k a r t vʲ é l	k a r t vʲ é l a
-# k á u pʲ e r	k á u pʲ e r a
-# kʲ i r a sʲ í r	kʲ i r a sʲ í r a
-# k l á p a n	k l á p a n a
-# k lʲ é j	k lʲ é j a
-# k o ʒ ú x	k o ʒ u x á
-# k o s t rʲ í ʃʃʲ e	k o s t rʲ í ʃʃʲ i
-# k o t lʲ í ʃʃʲ e	k o t lʲ í ʃʃʲ i
-# k rʲ u ʧʲ í ʃʃʲ e	k rʲ u ʧʲ í ʃʃʲ i
-# k u sʲ í ʃʃʲ e	k u sʲ í ʃʃʲ i
-# kʲ u rʲ í n	kʲ u rʲ í n a
-lʲ ó d	lʲ d á
-# lʲ è j b - g u s á r	lʲ è j b - g u s á r a
-# lʲ é mʲ e x	lʲ e mʲ e x á
-# lʲ e sʲ í ʃʃʲ e	lʲ e sʲ í ʃʃʲ i
-# lʲ í sʲ e lʲ	lʲ í sʲ e lʲ a
-# lʲ ú t nʲ a	lʲ ú t nʲ i
-# m a nʲ ʧʲ ʒ ú r	m a nʲ ʧʲ ʒ ú r a
-# m á r sʲ e lʲ	m á r sʲ e lʲ a
-# mʲ e g rʲ é l	mʲ e g rʲ é l a
-# mʲ ó d	mʲ ó d a
-# mʲ é l	mʲ é l a
-# mʲ é r gʲ e lʲ	mʲ é r gʲ e lʲ a
-# mʲ é x	mʲ é x a
-# m ó z g	m ó z g a
-# m o r ó zʲ i ʃʃʲ e	m o r ó zʲ i ʃʃʲ i
-# m ó x	m x á
-# m rʲ é ʒ a	m rʲ é ʒ i
-# m ú fʲ e lʲ	m ú fʲ e lʲ a
-# m ú ʃ kʲ e lʲ	m ú ʃ kʲ e lʲ a
-# n á gʲ e lʲ	n á gʲ e lʲ a
-# n a r ó dʲ i ʃʃʲ e	n a r ó dʲ i ʃʃʲ i
-# n g a n a s á n	n g a n a s á n a
-# nʲ í p pʲ e lʲ	nʲ í p pʲ e lʲ a
-# n o ʒ í ʃʃʲ e	n o ʒ í ʃʃʲ i
-# o b ʧʲ é s tʲ sʲ a	o b o ʧʲ tʲ ó m sʲ a
-# o g nʲ í ʃʃʲ e	o g nʲ í ʃʃʲ i
-# pʲ é lʲ e n g	pʲ é lʲ e n g a
-# p lʲ í n t u s	p lʲ í n t u s a
-# p nʲ í ʃʃʲ e	p nʲ í ʃʃʲ i
-# p o ʒ á rʲ i ʃʃʲ e	p o ʒ á rʲ i ʃʃʲ i
-# p r o s t i nʲ á	p r o s t i nʲ í
-# r á kʲ e lʲ	r á kʲ e lʲ a
-# r a s ʧʲ é s tʲ sʲ a	r a z o ʧʲ tʲ ó m sʲ a
-# rʲ í gʲ e lʲ	rʲ í gʲ e lʲ a
-# r ú m pʲ e lʲ	r ú m pʲ e lʲ a
-# s a r m á t	s a r m á t a
-# s vʲ é t	s vʲ é t a
-# sʲ é j nʲ e r	sʲ é j nʲ e r a
-# s k ó bʲ e lʲ	s k ó bʲ e lʲ a
-# s k rʲ é pʲ e r	s k rʲ é pʲ e r a
-# s k r ú b bʲ e r	s k r ú b bʲ e r a
-# s nʲ é g	s nʲ é g a
-# s nʲ e ʒ í ʃʃʲ e	s nʲ e ʒ í ʃʃʲ i
-# s ó k	s ó k a
-# s pʲ í r t	s pʲ í r t a
-# s t á kʲ e r	s t á kʲ e r a
-# s t á k sʲ e lʲ	s t á k sʲ e lʲ a
-# s t o ʒ í ʃʃʲ e	s t o ʒ í ʃʃʲ i
-# s t o lʲ í ʃʃʲ e	s t o lʲ í ʃʃʲ i
-# s t ó p o r	s t ó p o r a
-# s u g r ó bʲ i ʃʃʲ e	s u g r ó bʲ i ʃʃʲ i
-# s ú p	s ú p a
-# s ʧʲ é s tʲ sʲ a	s o ʧʲ tʲ ó m sʲ a
-# t a b a ʧʲ í ʃʃʲ e	t a b a ʧʲ í ʃʃʲ i
-# t á n kʲ e r	t á n kʲ e r a
-# tʲ é n dʲ e r	tʲ é n dʲ e r a
-# t o mʲ í ʃʃʲ e	t o mʲ í ʃʃʲ i
-# t o p o rʲ í ʃʃʲ e	t o p o rʲ í ʃʃʲ i
-# t ó p sʲ e lʲ	t ó p sʲ e lʲ a
-# t o x á r	t o x á r a
-# t rʲ í j e r	t rʲ í j e r a
-# t rʲ í sʲ e lʲ	t rʲ í sʲ e lʲ a
-# t rʲ ú m	t rʲ ú m a
-# t rʲ ú m sʲ e lʲ	t rʲ ú m sʲ e lʲ a
-# t u r k mʲ é n	t u r k mʲ é n a
-# t u ʃ í n	t u ʃ í n a
-# u j g ú r	u j g ú r a
-# u l á n	u l á n a
-# f rʲ é zʲ e r	f rʲ é zʲ e r a
-# xʲ e v s ú r	xʲ e v s ú r a
-# x o l o dʲ í ʃʃʲ e	x o l o dʲ í ʃʃʲ i
-# ʦ a x ú r	ʦ a x ú r a
-# ʧʲ á d	ʧʲ á d a
-# ʧʲ á j	ʧʲ á j a
-# ʧʲ í zʲ e lʲ	ʧʲ í zʲ e lʲ a
-# ʃ á bʲ e r	ʃ á bʲ e r a
-# ʃ ó l k	ʃ ó l k a
-# ʃ kʲ é n tʲ e lʲ	ʃ kʲ é n tʲ e lʲ a
-# ʃ p á tʲ e lʲ	ʃ p á tʲ e lʲ a
-# ʃ p á x tʲ e lʲ	ʃ p á x tʲ e lʲ a
-# ʃ pʲ í n dʲ e lʲ	ʃ pʲ í n dʲ e lʲ a
-# ʃ tʲ í xʲ e lʲ	ʃ tʲ í xʲ e lʲ a
-# j a n i ʧʲ á r	j a n i ʧʲ á r a
-# g l ú ʃ	g l u ʃ í
-# g r ó b	g r o b á
-# k ú m ʒ a	k ú m ʒ i
-# k ʃ á t rʲ i j a	k ʃ á t rʲ i j i
-# p á rʲ i j a	p á rʲ i j i
-# r a s tʲ é rʲ a	r a s tʲ é rʲ i
-# s ó nʲ a	s ó nʲ i
-# m á j j a	m á j j i
-# m á k	m á k a
-# m a k á k a	m a k á kʲ i
-# m a k a r ó nʲ i n a	m a k a r ó nʲ i n i
-# m a kʲ e d ó n k a	m a kʲ e d ó n kʲ i
-# m a kʲ é t ʧʲ i ʦ a	m a kʲ é t ʧʲ i ʦ i
-# m a kʲ í t r a	m a kʲ í t r i
-# m á k kʲ i j a	m á k kʲ i j i
-# m a k l á ʧʲ k a	m a k l á ʧʲ kʲ i
-# m á k o vʲ i n a	m á k o vʲ i n i
-# m á k o vʲ i ʦ a	m á k o vʲ i ʦ i
-# m á k o v k a	m á k o v kʲ i
-# m a k r o kʲ e f á lʲ i j a	m a k r o kʲ e f á lʲ i j i
-# m à k r o m o lʲ é k u l a	m à k r o m o lʲ é k u l i
-# m à k r o s p ó r a	m à k r o s p ó r i
-# m à k r o s t r u k t ú r a	m à k r o s t r u k t ú r i
-# m à k r o f o t o g r á fʲ i j a	m à k r o f o t o g r á fʲ i j i
-# m a k r o f ò t o s j ó m k a	m a k r o f o t o s j ó m kʲ i
-# m a k r o ʦ e f á lʲ i j a	m a k r o ʦ e f á lʲ i j i
-# m á k s a	m á k s i
-# m á k sʲ i m a	m á k sʲ i m i
-# m a k sʲ i m a lʲ í s t k a	m a k sʲ i m a lʲ í s t kʲ i
-# m à k sʲ i - j ú b k a	m à k sʲ i - j ú b kʲ i
-# m a k u l a t ú r a	m a k u l a t ú r i
-# m a k ú x a	m a k ú xʲ i
-# m a k ú ʃ k a	m a k ú ʃ kʲ i
-# m a l á g a	m a l á gʲ i
-# m a l á j k a	m a l á j kʲ i
-# m a l a k o l ó gʲ i j a	m a l a k o l ó gʲ i j i
-# m a l á ʃ e ʧʲ k a	m a l á ʃ e ʧʲ kʲ i
-# m a lʲ í n a	m a lʲ í n i
-# m a lʲ í n k a	m a lʲ í n kʲ i
-# m a lʲ í n o v k a	m a lʲ í n o v kʲ i
-# m a lʲ í n o v k a	m a lʲ í n o v kʲ i
-# m á lʲ i ʦ a	m á lʲ i ʦ i
-# m á l k a	m á l kʲ i
-# m a l lʲ e j i nʲ i z á ʦ i j a	m a l lʲ e j i nʲ i z á ʦ i j i
-# m a l o vʲ é r k a	m a l o vʲ é r kʲ i
-# m a l o d ó j k a	m a l o d ó j kʲ i
-# m a l o lʲ é t k a	m a l o lʲ é t kʲ i
-# m a l o lʲ i t r á ʒ k a	m a l o lʲ i t r á ʒ kʲ i
-# m a l o mʲ é r k a	m a l o mʲ é r kʲ i
-# m a l o r o s sʲ i j á n k a	m a l o r o s sʲ i j á n kʲ i
-# m a l o r ó s s k a	m a l o r ó s s kʲ i
-# m a l í ʃ k a	m a l í ʃ kʲ i
-# m a l i ʃ nʲ á	m a l i ʃ nʲ í
-# m á lʲ v a	m á lʲ v i
-# m a lʲ v á zʲ i j a	m a lʲ v á zʲ i j i
-# m a lʲ t ó z a	m a lʲ t ó z i
-# m a lʲ ʧʲ í ʃ e ʧʲ k a	m a lʲ ʧʲ í ʃ e ʧʲ kʲ i
-# m a lʲ ʧʲ í ʃ k a	m a lʲ ʧʲ í ʃ kʲ i
-# m a lʲ ʧʲ ó n k a	m a lʲ ʧʲ ó n kʲ i
-# m a lʲ ʧʲ u g á ʃ k a	m a lʲ ʧʲ u g á ʃ kʲ i
-# m a lʲ ú t k a	m a lʲ ú t kʲ i
-# m a lʲ ú t o ʧʲ k a	m a lʲ ú t o ʧʲ kʲ i
-# m a lʲ á v k a	m a lʲ á v kʲ i
-# m a lʲ a rʲ í j a	m a lʲ a rʲ í j i
-# m á m a	m á m i
-# m a m a l í g a	m a m a l í gʲ i
-# m a m á nʲ a	m a m á nʲ i
-# m a m á ʃ a	m a m á ʃ i
-# m a m á ʃ e nʲ k a	m a m á ʃ e nʲ kʲ i
-# m á mʲ e nʲ k a	m á mʲ e nʲ kʲ i
-# m á m k a	m á m kʲ i
-# m a m ó n a	m a m ó n i
-# m a m ó n a	m a m ó n i
-# m á m o nʲ k a	m á m o nʲ kʲ i
-# m á m o ʧʲ k a	m á m o ʧʲ kʲ i
-# m a m ú lʲ a	m a m ú lʲ i
-# m a m ú sʲ a	m a m ú sʲ i
-# m á m u ʃ k a	m á m u ʃ kʲ i
-# m a n a tʲ j á	m a n a tʲ j í
-# m a n g ú s t a	m a n g ú s t i
-# m a n d a rʲ í n k a	m a n d a rʲ í n kʲ i
-# m a n dʲ í b u l a	m a n dʲ í b u l i
-# m a n d ó l a	m a n d ó l i
-# m a n d o lʲ í n a	m a n d o lʲ í n i
-# m a n d o lʲ i nʲ í s t k a	m a n d o lʲ i nʲ í s t kʲ i
-# m a n d r a g ó r a	m a n d r a g ó r i
-# m a nʲ e kʲ é n ʃʃʲ i ʦ a	m a nʲ e kʲ é n ʃʃʲ i ʦ i
-# m a nʲ é r a	m a nʲ é r i
-# m a nʲ é r k a	m a nʲ é r kʲ i
-# m a n ʒ é t a	m a n ʒ é t i
-# m a n ʒ é t k a	m a n ʒ é t kʲ i
-# m a nʲ i kʲ ú r ʃ a	m a nʲ i kʲ ú r ʃ i
-# m a nʲ í l o v ʃʃʲ i n a	m a nʲ í l o v ʃʃʲ i n i
-# m a nʲ i ó k a	m a nʲ i ó kʲ i
-# m a nʲ i p u lʲ á ʦ i j a	m a nʲ i p u lʲ á ʦ i j i
-# m a nʲ i fʲ e s t á n t k a	m a nʲ i fʲ e s t á n t kʲ i
-# m a nʲ i fʲ e s t á ʦ i j a	m a nʲ i fʲ e s t á ʦ i j i
-# m a nʲ í ʃ k a	m a nʲ í ʃ kʲ i
-# m á nʲ i j a	m á nʲ i j i
-# m á n k a	m á n kʲ i
-# m a n kʲ i r ó v k a	m a n kʲ i r ó v kʲ i
-# m á n n a	m á n n i
-# m a n s á r d a	m a n s á r d i
-# m a n sʲ í j k a	m a n sʲ í j kʲ i
-# m a n tʲ í lʲ k a	m a n tʲ í lʲ kʲ i
-# m a n tʲ í lʲ j a	m a n tʲ í lʲ j i
-# m á n tʲ i j a	m á n tʲ i j i
-# m a n u f a k t ú r a	m a n u f a k t ú r i
-# m a nʲ ʧʲ ʒ ú r k a	m a nʲ ʧʲ ʒ ú r kʲ i
-# m a nʲ j á k	m a nʲ j a k á
-# m a nʲ j á ʧʲ k a	m a nʲ j á ʧʲ kʲ i
-# m á r a	m á r i
-# t á tʲ	t á tʲ a
-# t à u - s a g í z	t à u - s a g í z a
-# t a xʲ e ó mʲ e t r	t a xʲ e ó mʲ e t r a
-# t a xʲ í mʲ e t r	t a xʲ í mʲ e t r a
-# t a x ó mʲ e t r	t a x ó mʲ e t r a
-# t a ʦ é t	t a ʦ é t a
-# t a ʧʲ á lʲ ʃʃʲ i k	t a ʧʲ á lʲ ʃʃʲ i k a
-# t á ʧʲ e ʧʲ nʲ i k	t á ʧʲ e ʧʲ nʲ i k a
-# t á j a nʲ i j e	t á j a nʲ i j a
-# t v á rʲ	t v á rʲ i
-# t vʲ e r dʲ é nʲ i j e	t vʲ e r dʲ é nʲ i j a
-# t vʲ e r d o zʲ ó m	t vʲ e r d o zʲ ó m a
-# t vʲ e r d o mʲ é r	t vʲ e r d o mʲ é r a
-# t vʲ ó r d o s tʲ	t vʲ ó r d o s tʲ i
-# t vʲ é r dʲ	t vʲ é r dʲ i
-# t vʲ í n	t vʲ í n a
-# t vʲ i n dʲ é k	t vʲ i n dʲ é k a
-# t vʲ í s t	t vʲ í s t a
-# t v o rʲ é nʲ i j e	t v o rʲ é nʲ i j a
-# t v o rʲ é ʦ	t v o r ʦ á
-# t v o rʲ í l o	t v o rʲ í l a
-# t v o r ó ʒ nʲ i k	t v o r ó ʒ nʲ i k a
-# t v ó r ʧʲ e s t v o	t v ó r ʧʲ e s t v a
-# tʲ e á t r	tʲ e á t r a
-# tʲ e a t r á l	tʲ e a t r á l a
-# tʲ e a t r á lʲ n o s tʲ	tʲ e a t r á lʲ n o s tʲ i
-# tʲ e a t r o vʲ é d	tʲ e a t r o vʲ é d a
-# tʲ e a t r o vʲ é dʲ e nʲ i j e	tʲ e a t r o vʲ é dʲ e nʲ i j a
-# tʲ e bʲ e nʲ ó k	tʲ e bʲ e nʲ k á
-# tʲ e v t ó n	tʲ e v t ó n a
-# tʲ e z a v rʲ í r o v a nʲ i j e	tʲ e z a v rʲ í r o v a nʲ i j a
-# tʲ e z á u r u s	tʲ e z á u r u s a
-# tʲ é zʲ i s	tʲ é zʲ i s a
-# tʲ e z o j i mʲ e nʲ í t s t v o	tʲ e z o j i mʲ e nʲ í t s t v a
-# tʲ e j í z m	tʲ e j í z m a
-# tʲ e j í n	tʲ e j í n a
-# tʲ e j í s t	tʲ e j í s t a
-# tʲ e j l o rʲ í z m	tʲ e j l o rʲ í z m a
-# tʲ e kʲ í nʲ e ʦ	tʲ e kʲ í n ʦ a
-# tʲ é k s t	tʲ é k s t a
-# tʲ e k s tʲ í lʲ	tʲ e k s tʲ í lʲ a
-# tʲ e k s tʲ í lʲ	tʲ e k s tʲ i lʲ á
-# tʲ e k s tʲ í lʲ ʃʃʲ i k	tʲ e k s tʲ í lʲ ʃʃʲ i k a
-# tʲ e k s t o vʲ í k	tʲ e k s t o vʲ i k á
-# tʲ e k s t o vʲ i nʲ í t	tʲ e k s t o vʲ i nʲ í t a
-# tʲ e k s t o lʲ í t	tʲ e k s t o lʲ í t a
-# tʲ e k s t ó l o g	tʲ e k s t ó l o g a
-# tʲ e k s t u á lʲ n o s tʲ	tʲ e k s t u á lʲ n o s tʲ i
-# tʲ e k t o nʲ í s t	tʲ e k t o nʲ í s t a
-# tʲ e k ú ʧʲ e s tʲ	tʲ e k ú ʧʲ e s tʲ i
-# tʲ è lʲ e a v t ó g r a f	tʲ è lʲ e a v t ó g r a f a
-# tʲ e lʲ e vʲ í dʲ e nʲ i j e	tʲ e lʲ e vʲ í dʲ e nʲ i j a
-# tʲ e lʲ e vʲ í z o r	tʲ e lʲ e vʲ í z o r a
-# tʲ e lʲ e g r á f	tʲ e lʲ e g r á f a
-# tʲ e lʲ e g r a fʲ í s t	tʲ e lʲ e g r a fʲ í s t a
-# tʲ e lʲ é ʒ e ʧʲ nʲ i k	tʲ e lʲ é ʒ e ʧʲ nʲ i k a
-# tʲ e lʲ é ʒ nʲ i k	tʲ e lʲ é ʒ nʲ i k a
-# tʲ è lʲ e z rʲ í tʲ e lʲ	tʲ è lʲ e z rʲ í tʲ e lʲ a
-# tʲ è lʲ e k o m mʲ e n t á t o r	tʲ è lʲ e k o m mʲ e n t á t o r a
-# tʲ e lʲ e mʲ é t r	tʲ e lʲ e mʲ é t r a
-# tʲ e lʲ ó n o k	tʲ e lʲ ó n k a
-# tʲ e lʲ e n ó m u s	tʲ e lʲ e n ó m u s a
-# tʲ e lʲ ó n o ʧʲ e k	tʲ e lʲ ó n o ʧʲ k a
-# tʲ è lʲ e o b j e k tʲ í v	tʲ è lʲ e o b j e k tʲ í v a
-# tʲ e lʲ e o z á v r	tʲ e lʲ e o z á v r a
-# tʲ é lʲ e pʲ e nʲ	tʲ é lʲ e p nʲ a
-# tʲ é lʲ e pʲ e nʲ	tʲ é lʲ e p nʲ a
-# tʲ è lʲ e pʲ e rʲ e d á t ʧʲ i k	tʲ è lʲ e pʲ e rʲ e d á t ʧʲ i k a
-# tʲ e lʲ e s k ó p	tʲ e lʲ e s k ó p a
-# tʲ e lʲ é s n o s tʲ	tʲ e lʲ é s n o s tʲ i
-# tʲ e lʲ é s tʲ i x	tʲ e lʲ é s tʲ i x a
-# tʲ e lʲ e t á j p	tʲ e lʲ e t á j p a
-# tʲ e lʲ e t a j pʲ í s t	tʲ e lʲ e t a j pʲ í s t a
-# tʲ è lʲ e u p r a v lʲ é nʲ i j e	tʲ è lʲ e u p r a v lʲ é nʲ i j a
-# tʲ e lʲ e f ó n	tʲ e lʲ e f ó n a
-# tʲ e lʲ e f o nʲ i zʲ í r o v a nʲ i j e	tʲ e lʲ e f o nʲ i zʲ í r o v a nʲ i j a
-# tʲ e lʲ e f o nʲ í s t	tʲ e lʲ e f o nʲ í s t a
-# tʲ e lʲ é ʦ	tʲ e lʲ ʦ á
-# tʲ è lʲ e ʦ é n t r	tʲ è lʲ e ʦ é n t r a
-# tʲ è lʲ e e k r á n	tʲ è lʲ e e k r á n a
-# tʲ e l l ú r	tʲ e l l ú r a
-# tʲ e l l ú rʲ i j	tʲ e l l ú rʲ i j a
-# tʲ é l o	tʲ é l a
-# tʲ e l o d vʲ i ʒ é nʲ i j e	tʲ e l o d vʲ i ʒ é nʲ i j a
-# tʲ e l ó k	tʲ e l k á
-# tʲ e l o rʲ é z	tʲ e l o rʲ é z a
-# tʲ e l o s l o ʒ é nʲ i j e	tʲ e l o s l o ʒ é nʲ i j a
-# tʲ e l o x r a nʲ í tʲ e lʲ	tʲ e l o x r a nʲ í tʲ e lʲ a
-# tʲ é lʲ nʲ i k	tʲ é lʲ nʲ i k a
-# tʲ é lʲ fʲ e r	tʲ é lʲ fʲ e r a
-# tʲ é lʲ ʦ e	tʲ é lʲ ʦ a
-# tʲ é lʲ ʦ e	tʲ é lʲ ʦ a
-# tʲ e lʲ á t nʲ i k	tʲ e lʲ á t nʲ i k a
-# tʲ e lʲ á t nʲ i k	tʲ e lʲ á t nʲ i k a
-# tʲ é m b r	tʲ é m b r a
-# tʲ é mʲ e nʲ	tʲ é mʲ e nʲ i
-# tʲ é mʲ e ʧʲ k o	tʲ é mʲ e ʧʲ k a
-# tʲ e m lʲ á k	tʲ e m lʲ a k á
-# tʲ é m nʲ i k	tʲ é m nʲ i k a
-# tʲ é m nʲ i k	tʲ é m nʲ i k a
-# tʲ e m n o k ó ʒ i j	tʲ e m n o k ó ʒ e g o
-# tʲ é m p	tʲ é m p a
-# tʲ e m pʲ e r á mʲ e n t	tʲ e m pʲ e r á mʲ e n t a
-# tʲ e m pʲ e r á mʲ e n t n o s tʲ	tʲ e m pʲ e r á mʲ e n t n o s tʲ i
-# tʲ é mʲ	tʲ é mʲ i
-# tʲ é mʲ a	tʲ é mʲ e nʲ i
-# tʲ e n á k lʲ	tʲ e n á k lʲ a
-# tʲ e n a r dʲ í t	tʲ e n a r dʲ í t a
-# tʲ e n dʲ e n ʦ i ó z n o s tʲ	tʲ e n dʲ e n ʦ i ó z n o s tʲ i
-# tʲ è nʲ e v i n ó s lʲ i v o s tʲ	tʲ è nʲ e v i n ó s lʲ i v o s tʲ i
-# tʲ e nʲ ó k	tʲ e nʲ k á
-# tʲ e nʲ e lʲ ú b	tʲ e nʲ e lʲ ú b a
-# tʲ e nʲ e rʲ í f	tʲ e nʲ e rʲ í f a
-# tʲ e nʲ ó t nʲ i k	tʲ e nʲ ó t nʲ i k a
-# tʲ e nʲ ó t nʲ i k	tʲ e nʲ ó t nʲ i k a
-# tʲ e nʲ ó ʧʲ e k	tʲ e nʲ ó ʧʲ k a
-# tʲ e n z ó mʲ e t r	tʲ e n z ó mʲ e t r a
-# tʲ e n z o mʲ e t rʲ í s t	tʲ e n z o mʲ e t rʲ í s t a
-# tʲ e nʲ í s t o s tʲ	tʲ e nʲ í s t o s tʲ i
-# tʲ é n nʲ i s	tʲ é n nʲ i s a
-# tʲ e n nʲ i sʲ í s t	tʲ e n nʲ i sʲ í s t a
-# tʲ é n o r	tʲ é n o r a
-# tʲ é n o r	tʲ é n o r a
-# tʲ é n o r	tʲ é n o r a
-# tʲ é n o r	tʲ é n o r a
-# tʲ e n o r ó k	tʲ e n o r k á
-# tʲ é n t	tʲ é n t a
-# tʲ é nʲ	tʲ é nʲ i
-# tʲ é nʲ	tʲ é nʲ i
-# tʲ e o b r o mʲ í n	tʲ e o b r o mʲ í n a
-# tʲ e o d o lʲ í t	tʲ e o d o lʲ í t a
-# tʲ e ó l o g	tʲ e ó l o g a
-# tʲ e o rʲ e tʲ i zʲ í r o v a nʲ i j e	tʲ e o rʲ e tʲ i zʲ í r o v a nʲ i j a
-# tʲ e o rʲ é tʲ i k	tʲ e o rʲ é tʲ i k a
-# tʲ e o rʲ e tʲ í ʧʲ n o s tʲ	tʲ e o rʲ e tʲ í ʧʲ n o s tʲ i
-# tʲ e o s ó f	tʲ e o s ó f a
-# tʲ e p l ó	tʲ e p l á
-# tʲ e p l o vʲ í k	tʲ e p l o vʲ i k á
-# tʲ e p l o v ó z	tʲ e p l o v ó z a
-# tʲ e p l o v ò z o s t r o j é nʲ i j e	tʲ e p l o v ò z o s t r o j é nʲ i j a
-# tʲ e p l o j ó m k o s tʲ	tʲ e p l o j ó m k o s tʲ i
-# tʲ e p l o lʲ ú b	tʲ e p l o lʲ ú b a
-# tʲ e p l o lʲ ú b	tʲ e p l o lʲ ú b a
-# tʲ e p l o mʲ é r	tʲ e p l o mʲ é r a
-# tʲ e p l o n o sʲ í tʲ e lʲ	tʲ e p l o n o sʲ í tʲ e lʲ a
-# tʲ e p l o o b mʲ é n	tʲ e p l o o b mʲ é n a
-# tʲ e p l o o b mʲ é n nʲ i k	tʲ e p l o o b mʲ é n nʲ i k a
-# tʲ e p l o o b r a z o v á nʲ i j e	tʲ e p l o o b r a z o v á nʲ i j a
-# tʲ e p l o p r o v ó d	tʲ e p l o p r o v ó d a
-# tʲ e p l o p r o v ó d n o s tʲ	tʲ e p l o p r o v ó d n o s tʲ i
-# tʲ e p l o r ó d	tʲ e p l o r ó d a
-# tʲ e p l o sʲ é tʲ	tʲ e p l o sʲ é tʲ i
-# tʲ e p l o s n a b ʒ é nʲ i j e	tʲ e p l o s n a b ʒ é nʲ i j a
-# tʲ e p l o s t ó j k o s tʲ	tʲ e p l o s t ó j k o s tʲ i
-# tʲ e p l o t v ó r n o s tʲ	tʲ e p l o t v ó r n o s tʲ i
-# tʲ e p l o tʲ é x nʲ i k	tʲ e p l o tʲ é x nʲ i k a
-# tʲ e p l o u s t ó j ʧʲ i v o s tʲ	tʲ e p l o u s t ó j ʧʲ i v o s tʲ i
-# tʲ e p l o x ó d	tʲ e p l o x ó d a
-# tʲ e p l o ʦ e n t r á lʲ	tʲ e p l o ʦ e n t r á lʲ i
-# tʲ e p l o e lʲ è k t r o ʦ e n t r á lʲ	tʲ e p l o e lʲ è k t r o ʦ e n t r á lʲ i
-# tʲ e p l í nʲ	tʲ e p l í nʲ i
-# tʲ e p lʲ á k	tʲ e p lʲ a k á
-# tʲ e r a pʲ é v t	tʲ e r a pʲ é v t a
-# l u k n ó	l u k n á
-# l u k o m ó rʲ j e	l u k o m ó rʲ j a
-# l u k ó ʃ e ʧʲ k o	l u k ó ʃ e ʧʲ k a
-# l u k ó ʃ k o	l u k ó ʃ k a
-# l ù n a - p á r k	l ù n a - p á r k a
-# l u n a tʲ í z m	l u n a tʲ í z m a
-# l u n á tʲ i k	l u n á tʲ i k a
-# l ù n k o k o p á tʲ e lʲ	l ù n k o k o p á tʲ e lʲ a
-# l ú n nʲ i k	l ú n nʲ i k a
-# l u n o x ó d	l u n o x ó d a
-# l ú nʲ	l u nʲ á
-# l u o r a vʲ e t l á n	l u o r a vʲ e t l á n a
-# l u p a n á r	l u p a n á r a
-# l u p u lʲ í n	l u p u lʲ í n a
-# l ú ʧʲ	l u ʧʲ á
-# l u ʧʲ e z á r n o s tʲ	l u ʧʲ e z á r n o s tʲ i
-# l ù ʧʲ e j i s p u s k á nʲ i j e	l ù ʧʲ e j i s p u s k á nʲ i j a
-# l u ʧʲ é nʲ i j e	l u ʧʲ é nʲ i j a
-# l ù ʧʲ e p rʲ e l o m lʲ é nʲ i j e	l ù ʧʲ e p rʲ e l o m lʲ é nʲ i j a
-# l ú ʧʲ i k	l ú ʧʲ i k a
-# l u ʧʲ í s t o s tʲ	l u ʧʲ í s t o s tʲ i
-# l ú ʧʲ nʲ i k	l ú ʧʲ nʲ i k a
-# l u ʧʲ ó k	l u ʧʲ k á
-# l u ʃʃʲ é nʲ i j e	l u ʃʃʲ é nʲ i j a
-# l u ʃʃʲ í l o	l u ʃʃʲ í l a
-# l u ʃʃʲ í lʲ nʲ i k	l u ʃʃʲ í lʲ nʲ i k a
-# l í ʒ nʲ i k	l í ʒ nʲ i k a
-# l í k o	l í k a
-# l i k o dʲ ó r	l i k o dʲ ó r a
-# l i s ú n	l i s u n á
-# l í s i j	l í s o g o
-# l í ʧʲ k o	l í ʧʲ k a
-# lʲ vʲ ó n o k	lʲ vʲ ó n k a
-# lʲ vʲ á t nʲ i k	lʲ vʲ á t nʲ i k a
-# lʲ g ó t nʲ i k	lʲ g ó t nʲ i k a
-# lʲ d ò o b r a z o v á nʲ i j e	lʲ d ò o b r a z o v á nʲ i j a
-# lʲ n o v ó d	lʲ n o v ó d a
-# lʲ n o v ó d s t v o	lʲ n o v ó d s t v a
-# lʲ n ò v o l o k n ó	lʲ n o v o l o k n á
-# lʲ n ò z a v ó d	lʲ n ò z a v ó d a
-# lʲ n ò k o m b á j n	lʲ n ò k o m b á j n a
-# lʲ n ò k o m bʲ i n á t	lʲ n ò k o m bʲ i n á t a
-# lʲ n ò p rʲ a dʲ í lʲ ʃʃʲ i k	lʲ n ò p rʲ a dʲ í lʲ ʃʃʲ i k a
-# lʲ n ò sʲ é mʲ a	lʲ n ò sʲ é mʲ e nʲ i
-# lʲ n ò s o v x ó z	lʲ n ò s o v x ó z a
-# lʲ n ò tʲ e rʲ e bʲ í lʲ ʃʃʲ i k	lʲ n ò tʲ e rʲ e bʲ í lʲ ʃʃʲ i k a
-# lʲ s tʲ é ʦ	lʲ s tʲ e ʦ á
-# lʲ s tʲ í v o s tʲ	lʲ s tʲ í v o s tʲ i
-# lʲ j á l o	lʲ j á l a
-# lʲ u b vʲ e o bʲ í lʲ n o s tʲ	lʲ u b vʲ e o bʲ í lʲ n o s tʲ i
-# lʲ u bʲ é z nʲ i k	lʲ u bʲ é z nʲ i k a
-# lʲ u bʲ é z n o s tʲ	lʲ u bʲ é z n o s tʲ i
-# lʲ u bʲ í mʲ e ʦ	lʲ u bʲ í m ʦ a
-# lʲ u bʲ í m ʧʲ i k	lʲ u bʲ í m ʧʲ i k a
-# lʲ u bʲ í m i j	lʲ u bʲ í m o g o
-# lʲ u bʲ í s t o k	lʲ u bʲ í s t k a
-# lʲ u bʲ í tʲ e lʲ	lʲ u bʲ í tʲ e lʲ a
-# lʲ u bʲ í tʲ e lʲ s t v o	lʲ u bʲ í tʲ e lʲ s t v a
-# lʲ u b o v á nʲ i j e	lʲ u b o v á nʲ i j a
-# lʲ u b ó v nʲ i k	lʲ u b ó v nʲ i k a
-# lʲ u b ó vʲ	lʲ u b vʲ í
-# lʲ u b o dʲ e j á nʲ i j e	lʲ u b o dʲ e j á nʲ i j a
-# lʲ u b o z n á tʲ e lʲ n o s tʲ	lʲ u b o z n á tʲ e lʲ n o s tʲ i
-# lʲ u b o m ú d r	lʲ u b o m ú d r a
-# lʲ u b o m ú d rʲ i j e	lʲ u b o m ú d rʲ i j a
-# lʲ u b o p í t n i j	lʲ u b o p í t n o g o
-# lʲ u b o p í t s t v o	lʲ u b o p í t s t v a
-# lʲ u b o s tʲ a ʒ á nʲ i j e	lʲ u b o s tʲ a ʒ á nʲ i j a
-# lʲ ú vʲ e r s	lʲ ú vʲ e r s a
-# lʲ ú d	lʲ ú d a
-# lʲ ú d n o s tʲ	lʲ ú d n o s tʲ i
-# lʲ u d o j é d	lʲ u d o j é d a
-# lʲ u d o j é d s t v o	lʲ u d o j é d s t v a
-# lʲ u j i zʲ í t	lʲ u j i zʲ í t a
-# lʲ ú k	lʲ ú k a
-# lʲ u k o v ó j	lʲ u k o v ó g o
-# lʲ ú k s	lʲ ú k s a
-# lʲ u k s mʲ é t r	lʲ u k s mʲ é t r a
-# lʲ u lʲ à - kʲ e b á b	lʲ u lʲ à - kʲ e b á b a
-# lʲ ú mʲ e n	lʲ ú mʲ e n a
-# lʲ u mʲ e n o t r ó p	lʲ u mʲ e n o t r ó p a
-# lʲ u mʲ i n á l	lʲ u mʲ i n á l a
-# lʲ u mʲ i n ó g r a f	lʲ u mʲ i n ó g r a f a
-# lʲ u mʲ i n o f ó r	lʲ u mʲ i n o f ó r a
-# lʲ ù m pʲ e n - p r o lʲ e t a rʲ i á t	lʲ ù m pʲ e n - p r o lʲ e t a rʲ i á t a
-# lʲ u nʲ é t	lʲ u nʲ é t a
-# lʲ u pʲ í n	lʲ u pʲ í n a
-# lʲ ú p u s	lʲ ú p u s a
-# lʲ u s t rʲ í n	lʲ u s t rʲ í n a
-# lʲ u tʲ e r á nʲ i n	lʲ u tʲ e r á nʲ i n a
-# lʲ u tʲ e r á n s t v o	lʲ u tʲ e r á n s t v a
-# lʲ u tʲ é ʦ i j	lʲ u tʲ é ʦ i j a
-# lʲ ú tʲ i k	lʲ ú tʲ i k a
-# lʲ ú tʲ i ʧʲ	lʲ ú tʲ i ʧʲ a
-# lʲ u t nʲ í s t	lʲ u t nʲ í s t a
-# lʲ ú t o s tʲ	lʲ ú t o s tʲ i
-# lʲ ú f t	lʲ ú f t a
-# lʲ ú e s	lʲ ú e s a
-# lʲ a g u ʃ á t nʲ i k	lʲ a g u ʃ á t nʲ i k a
-# lʲ a g ú ʃ e ʧʲ nʲ i k	lʲ a g ú ʃ e ʧʲ nʲ i k a
-# lʲ a g ú ʃ nʲ i k	lʲ a g ú ʃ nʲ i k a
-# lʲ a g u ʃ ó n o k	lʲ a g u ʃ ó n k a
-# lʲ á d	lʲ á d a
-# lʲ á pʲ i s	lʲ á pʲ i s a
-# lʲ à pʲ i s - l a z ú rʲ	lʲ à pʲ i s - l a z ú rʲ i
-# lʲ á p s u s	lʲ á p s u s a
-# lʲ á r d	lʲ á r d a
-# lʲ á x	lʲ á x a
-# m a v z o lʲ é j	m a v z o lʲ é j a
-# m á v r	m á v r a
-# m á g	m á g a
-# m a g a zʲ í n	m a g a zʲ í n a
-# m a g a zʲ í n ʧʲ i k	m a g a zʲ í n ʧʲ i k a
-# m a g a zʲ í n ʃʃʲ i k	m a g a zʲ í n ʃʃʲ i k a
-# m a g a r í ʧʲ	m a g a r i ʧʲ á
-# m a gʲ í z m	m a gʲ í z m a
-# m a gʲ í s tʲ e r s t v o	m a gʲ í s tʲ e r s t v a
-# m a gʲ í s t r	m a gʲ í s t r a
-# z a k ú t o k	z a k ú t k a
-# z á l	z á l a
-# z a l á v o k	z a l á v k a
-# z a lʲ e g á nʲ i j e	z a lʲ e g á nʲ i j a
-# z a lʲ ó ʒ i v a nʲ i j e	z a lʲ ó ʒ i v a nʲ i j a
-# z á lʲ e ʒ	z á lʲ e ʒ i
-# z a lʲ é sʲ j e	z a lʲ é sʲ j a
-# z a lʲ ó t	z a lʲ ó t a
-# z a lʲ í v	z a lʲ í v a
-# z a lʲ i v á nʲ i j e	z a lʲ i v á nʲ i j a
-# z a lʲ í vʲ i s t o s tʲ	z a lʲ í vʲ i s t o s tʲ i
-# z a lʲ í v ʧʲ i k	z a lʲ í v ʧʲ i k a
-# z a lʲ í v ʃʃʲ i k	z a lʲ í v ʃʃʲ i k a
-# z a lʲ í z	z a lʲ í z a
-# z a lʲ í z i v a nʲ i j e	z a lʲ í z i v a nʲ i j a
-# z á l o	z á l a
-# z a l ó g	z a l ó g a
-# z a l ò g o d á tʲ e lʲ	z a l ò g o d á tʲ e lʲ a
-# z a l ò g o dʲ e r ʒ á tʲ e lʲ	z a l ò g o dʲ e r ʒ á tʲ e lʲ a
-# z a l o ʒ é nʲ i j e	z a l o ʒ é nʲ i j a
-# z a l ó ʒ nʲ i k	z a l ó ʒ nʲ i k a
-# z a l ó m	z a l ó m a
-# z a l ó m	z a l ó m a
-# z á l p	z á l p a
-# z á m	z á m a
-# z a m á lʲ i v a nʲ i j e	z a m á lʲ i v a nʲ i j a
-# z a m á l ʧʲ i v a nʲ i j e	z a m á l ʧʲ i v a nʲ i j a
-# z a m á nʲ i v a nʲ i j e	z a m á nʲ i v a nʲ i j a
-# z a m á n ʧʲ i v o s tʲ	z a m á n ʧʲ i v o s tʲ i
-# z a m á s lʲ i v a nʲ i j e	z a m á s lʲ i v a nʲ i j a
-# z a m á x	z a m á x a
-# z a m á ʧʲ i v a nʲ i j e	z a m á ʧʲ i v a nʲ i j a
-# z a mʲ e d lʲ é nʲ i j e	z a mʲ e d lʲ é nʲ i j a
-# z a mʲ é d lʲ e n n o s tʲ	z a mʲ é d lʲ e n n o s tʲ i
-# z a mʲ e d lʲ í tʲ e lʲ	z a mʲ e d lʲ í tʲ e lʲ a
-# z a mʲ e nʲ í m o s tʲ	z a mʲ e nʲ í m o s tʲ i
-# z a mʲ e nʲ í tʲ e lʲ	z a mʲ e nʲ í tʲ e lʲ a
-# z a mʲ é r	z a mʲ é r a
-# z a mʲ e r z á nʲ i j e	z a mʲ e r z á nʲ i j a
-# z a mʲ é r ʃʃʲ i k	z a mʲ é r ʃʃʲ i k a
-# z a mʲ é s	z a mʲ é s a
-# z a mʲ e s tʲ í tʲ e lʲ	z a mʲ e s tʲ í tʲ e lʲ a
-# z a mʲ e s tʲ í tʲ e lʲ s t v o	z a mʲ e s tʲ í tʲ e lʲ s t v a
-# z a mʲ ó t	z a mʲ ó t a
-# z a mʲ e t á nʲ i j e	z a mʲ e t á nʲ i j a
-# z a mʲ e ʧʲ á nʲ i j e	z a mʲ e ʧʲ á nʲ i j a
-# z a mʲ e ʃ á tʲ e lʲ s t v o	z a mʲ e ʃ á tʲ e lʲ s t v a
-# z a mʲ e ʃʃʲ é nʲ i j e	z a mʲ e ʃʃʲ é nʲ i j a
-# z a mʲ i r á nʲ i j e	z a mʲ i r á nʲ i j a
-# z a mʲ i rʲ é nʲ i j e	z a mʲ i rʲ é nʲ i j a
-# z á m k n u t o s tʲ	z á m k n u t o s tʲ i
-# z á m o k	z á m k a
-# z a m ó k	z a m k á
-# z a m ó r	z a m ó r a
-# z a m o r á ʒ i v a nʲ i j e	z a m o r á ʒ i v a nʲ i j a
-# z á m o r o z o k	z á m o r o z k a
-# z a m ó r i ʃ	z a m ó r i ʃ a
-# z a m ó ʧʲ e k	z a m ó ʧʲ k a
-# z a m ó ʧʲ nʲ i k	z a m ó ʧʲ nʲ i k a
-# z a m o ʃʃʲ é nʲ i j e	z a m o ʃʃʲ é nʲ i j a
-# z à m p o lʲ í t	z à m p o lʲ í t a
-# z a m ú ʒ e s t v o	z a m ú ʒ e s t v a
-# z a m u r ó v i v a nʲ i j e	z a m u r ó v i v a nʲ i j a
-# z a m ú s o rʲ i v a nʲ i j e	z a m ú s o rʲ i v a nʲ i j a
-# z a m i k á nʲ i j e	z a m i k á nʲ i j a
-# z a m i k á j u ʃʃʲ i j	z a m i k á j u ʃʃʲ e g o
-# z á m i sʲ e l	z á m i s l a
-# z a m i s l o v á t o s tʲ	z a m i s l o v á t o s tʲ i
-# z á n a vʲ e s	z á n a vʲ e s a
-# z á n a vʲ e sʲ	z á n a vʲ e sʲ i
-# z a n a vʲ é ʃ i v a nʲ i j e	z a n a vʲ é ʃ i v a nʲ i j a
-# z a nʲ e sʲ é nʲ i j e	z a nʲ e sʲ é nʲ i j a
-# z a nʲ i ʒ é nʲ i j e	z a nʲ i ʒ é nʲ i j a
-# z a nʲ i m á tʲ e lʲ n o s tʲ	z a nʲ i m á tʲ e lʲ n o s tʲ i
-# vʲ e nʲ é d	vʲ e nʲ é d a
-# vʲ e nʲ é rʲ i k	vʲ e nʲ é rʲ i k a
-# vʲ e nʲ e r ó l o g	vʲ e nʲ e r ó l o g a
-# vʲ e nʲ e s u é lʲ e ʦ	vʲ e nʲ e s u é lʲ ʦ a
-# vʲ e nʲ é t	vʲ e nʲ é t a
-# vʲ é nʲ e ʦ	vʲ é n ʦ a
-# vʲ e nʲ é ʦ	vʲ e n ʦ á
-# vʲ e nʲ e ʦ i á nʲ e ʦ	vʲ e nʲ e ʦ i á n ʦ a
-# vʲ e nʲ é ʧʲ nʲ i k	vʲ e nʲ é ʧʲ nʲ i k a
-# vʲ e n zʲ e lʲ ó k	vʲ e n zʲ e lʲ k á
-# vʲ é n zʲ e lʲ	vʲ é n zʲ e lʲ a
-# vʲ é nʲ i k	vʲ é nʲ i k a
-# vʲ é nʲ i ʧʲ e k	vʲ é nʲ i ʧʲ k a
-# vʲ é n o	vʲ é n a
-# vʲ e n ó k	vʲ e n k á
-# vʲ e n ó ʧʲ e k	vʲ e n ó ʧʲ k a
-# vʲ é n tʲ e r ʃʃʲ i k	vʲ é n tʲ e r ʃʃʲ i k a
-# vʲ e n tʲ i lʲ í r o v a nʲ i j e	vʲ e n tʲ i lʲ í r o v a nʲ i j a
-# vʲ é n tʲ i lʲ	vʲ é n tʲ i lʲ a
-# vʲ e n tʲ i lʲ á t o r	vʲ e n tʲ i lʲ á t o r a
-# vʲ e n ʦ e n ó sʲ e ʦ	vʲ e n ʦ e n ó s ʦ a
-# vʲ e n ʧʲ á nʲ i j e	vʲ e n ʧʲ á nʲ i j a
-# vʲ é n ʧʲ i k	vʲ é n ʧʲ i k a
-# vʲ é p rʲ	vʲ é p rʲ a
-# vʲ é p s	vʲ é p s a
-# vʲ e r a s k ó p	vʲ e r a s k ó p a
-# vʲ e r bʲ é j nʲ i k	vʲ e r bʲ é j nʲ i k a
-# vʲ e r b lʲ ú d	vʲ e r b lʲ ú d a
-# vʲ e r b lʲ u d o v ó d s t v o	vʲ e r b lʲ u d o v ó d s t v a
-# vʲ e r b lʲ u ʒ á t nʲ i k	vʲ e r b lʲ u ʒ á t nʲ i k a
-# vʲ e r b lʲ u ʒ ó n o k	vʲ e r b lʲ u ʒ ó n k a
-# vʲ e r b nʲ á k	vʲ e r b nʲ a k á
-# vʲ e r b o v á nʲ i j e	vʲ e r b o v á nʲ i j a
-# vʲ e r b ó v ʃʃʲ i k	vʲ e r b ó v ʃʃʲ i k a
-# vʲ é r vʲ i j e	vʲ é r vʲ i j a
-# vʲ é r vʲ	vʲ é r vʲ i
-# vʲ e r dʲ í k t	vʲ e r dʲ í k t a
-# vʲ e rʲ ó v o ʧʲ nʲ i k	vʲ e rʲ ó v o ʧʲ nʲ i k a
-# vʲ é rʲ e d	vʲ é rʲ e d a
-# vʲ e rʲ e z ʒ á nʲ i j e	vʲ e rʲ e z ʒ á nʲ i j a
-# vʲ é rʲ e s	vʲ é rʲ e s a
-# vʲ e rʲ e tʲ é n nʲ i k	vʲ e rʲ e tʲ é n nʲ i k a
-# vʲ e rʲ e tʲ e n ó	vʲ e rʲ e tʲ e n á
-# vʲ e rʲ e tʲ ó n ʃʃʲ i k	vʲ e rʲ e tʲ ó n ʃʃʲ i k a
-# vʲ e rʲ é tʲ j e	vʲ e rʲ é tʲ j a
-# vʲ e rʲ e ʃʃ á nʲ i j e	vʲ e rʲ e ʃʃ á nʲ i j a
-# vʲ e rʲ í z m	vʲ e rʲ í z m a
-# vʲ e rʲ í tʲ e lʲ	vʲ e rʲ í tʲ e lʲ a
-# vʲ é r m a x t	vʲ é r m a x t a
-# vʲ e r mʲ i k u lʲ í t	vʲ e r mʲ i k u lʲ í t a
-# vʲ e r mʲ i lʲ ó n	vʲ e r mʲ i lʲ ó n a
-# vʲ e r mʲ i ʃ é lʲ	vʲ e r mʲ i ʃ é lʲ i
-# vʲ e r nʲ i s á ʒ	vʲ e r nʲ i s á ʒ a
-# vʲ e r n o p ó d d a n n o s tʲ	vʲ e r n o p ó d d a n n o s tʲ i
-# vʲ e r n o p ó d d a n n i j	vʲ e r n o p ó d d a n n o g o
-# vʲ e r n o p ó d d a n s t v o	vʲ e r n o p ó d d a n s t v a
-# vʲ é r n o s tʲ	vʲ é r n o s tʲ i
-# vʲ e r nʲ j é r	vʲ e r nʲ j é r a
-# vʲ é r o v a nʲ i j e	vʲ é r o v a nʲ i j a
-# vʲ è r o j i s p o vʲ é d a nʲ i j e	vʲ è r o j i s p o vʲ é d a nʲ i j a
-# vʲ e r o l ó m n o s tʲ	vʲ e r o l ó m n o s tʲ i
-# vʲ e r o l ó m s t v o	vʲ e r o l ó m s t v a
-# vʲ e r o n á l	vʲ e r o n á l a
-# vʲ e r o o t s t ú p nʲ i k	vʲ e r o o t s t ú p nʲ i k a
-# vʲ e r o o t s t ú p nʲ i ʧʲ e s t v o	vʲ e r o o t s t ú p nʲ i ʧʲ e s t v a
-# vʲ e r o p o d ó bʲ i j e	vʲ e r o p o d ó bʲ i j a
-# vʲ e r o tʲ e r pʲ í m o s tʲ	vʲ e r o tʲ e r pʲ í m o s tʲ i
-# vʲ e r o u ʧʲ é nʲ i j e	vʲ e r o u ʧʲ é nʲ i j a
-# vʲ e r o u ʧʲ í tʲ e lʲ	vʲ e r o u ʧʲ í tʲ e lʲ a
-# vʲ e r o j á tʲ i j e	vʲ e r o j á tʲ i j a
-# vʲ e r o j á t n o s tʲ	vʲ e r o j á t n o s tʲ i
-# vʲ é r p	vʲ é r p a
-# vʲ e r sʲ i fʲ i k á t o r	vʲ e r sʲ i fʲ i k á t o r a
-# vʲ e r s t á k	vʲ e r s t a k á
-# vʲ e r s t á lʲ ʃʃʲ i k	vʲ e r s t á lʲ ʃʃʲ i k a
-# vʲ e r s t a ʧʲ ó k	vʲ e r s t a ʧʲ k á
-# vʲ é r tʲ e l	vʲ é r tʲ e l a
-# vʲ e r tʲ é p	vʲ e r tʲ é p a
-# vʲ e r tʲ é p nʲ i k	vʲ e r tʲ é p nʲ i k a
-# vʲ e r tʲ i k á l	vʲ e r tʲ i k á l a
-# vʲ e r tʲ i k á lʲ	vʲ e r tʲ i k á lʲ i
-# vʲ e r tʲ i k á lʲ n o s tʲ	vʲ e r tʲ i k á lʲ n o s tʲ i
-# vʲ ó r t k o s tʲ	vʲ ó r t k o s tʲ i
-# vʲ e r t lʲ ú g	vʲ e r t lʲ u g á
-# vʲ e r t lʲ u ʒ ó k	vʲ e r t lʲ u ʒ k á
-# vʲ e r t lʲ á v o s tʲ	vʲ e r t lʲ á v o s tʲ i
-# vʲ e r t o g r á d	vʲ e r t o g r á d a
-# vʲ e r t o d r ó m	vʲ e r t o d r ó m a
-# vʲ e r t o lʲ ó t	vʲ e r t o lʲ ó t a
-# vʲ e r t o lʲ ó t ʧʲ i k	vʲ e r t o lʲ ó t ʧʲ i k a
-# vʲ e r t o p r á x	vʲ e r t o p r á x a
-# vʲ e r t o p r á ʃ e s t v o	vʲ e r t o p r á ʃ e s t v a
-# vʲ e r t ú n	vʲ e r t u n á
-# vʲ e r t ú n	vʲ e r t u n á
-# vʲ é r u j u ʃʃʲ i j	vʲ é r u j u ʃʃʲ e g o
-# vʲ é r fʲ	vʲ é r fʲ i
-# vʲ e r x o vʲ é n s t v o	vʲ e r x o vʲ é n s t v a
-# vʲ e r x ó v n o s tʲ	vʲ e r x ó v n o s tʲ i
-# vʲ e r x o v ó d	vʲ e r x o v ó d a
-# vʲ e r x o v ó j	vʲ e r x o v ó g o
-# vʲ e r x o g lʲ á d	vʲ e r x o g lʲ á d a
-# vʲ e r x o g lʲ á d s t v o	vʲ e r x o g lʲ á d s t v a
-# vʲ e r x o k ó n n i j	vʲ e r x o k ó n n o g o
-# vʲ e r x o l á z	vʲ e r x o l á z a
-# vʲ e r ʧʲ é nʲ i j e	vʲ e r ʧʲ é nʲ i j a
-# vʲ e r ʃ í n nʲ i k	vʲ e r ʃ í n nʲ i k a
-# vʲ e r ʃ í tʲ e lʲ	vʲ e r ʃ í tʲ e lʲ a
-# vʲ é r ʃ nʲ i k	vʲ é r ʃ nʲ i k a
-# vʲ e r ʃ ó k	vʲ e r ʃ k á
-# vʲ é s	vʲ é s a
-# vʲ e sʲ ó l o s tʲ	vʲ e sʲ ó l o s tʲ i
-# vʲ e sʲ é lʲ j e	vʲ e sʲ é lʲ j a
-# vʲ e sʲ e lʲ ʧʲ á k	vʲ e sʲ e lʲ ʧʲ a k á
-# vʲ é s k o s tʲ	vʲ é s k o s tʲ i
-# vʲ e s lʲ í ʃʃʲ e	vʲ e s lʲ í ʃʃ a
-# vʲ e s l ó	vʲ e s l á
-# vʲ e s o v ʃʃʲ í k	vʲ e s o v ʃʃʲ i k á
-# vʲ e s ó m o s tʲ	vʲ e s ó m o s tʲ i
-# vʲ é s t	vʲ é s t a
-# vʲ e s t g ó t	vʲ e s t g ó t a
-# vʲ é s tʲ e r n	vʲ é s tʲ e r n a
-# vʲ e s tʲ i bʲ ú lʲ	vʲ e s tʲ i bʲ ú lʲ a
-# vʲ é s t nʲ i k	vʲ é s t nʲ i k a
-# vʲ é s t nʲ i k	vʲ é s t nʲ i k a
-# vʲ e s t o v ó j	vʲ e s t o v ó g o
-# vʲ e s t o v ʃʃʲ í k	vʲ e s t o v ʃʃʲ i k á
-# vʲ é s tʲ	vʲ é s tʲ i
-# vʲ e t vʲ í s t o s tʲ	vʲ e t vʲ í s t o s tʲ i
-# vʲ e t v lʲ é nʲ i j e	vʲ e t v lʲ é nʲ i j a
-# vʲ è t v r á ʧʲ	vʲ e t v r a ʧʲ á
-# vʲ é t vʲ	vʲ é t vʲ i
-# vʲ e tʲ e r á n	vʲ e tʲ e r á n a
-# vʲ e tʲ e r á n s t v o	vʲ e tʲ e r á n s t v a
-# vʲ e tʲ e rʲ i n á r	vʲ e tʲ e rʲ i n á r a
-# vʲ e tʲ e r ó k	vʲ e tʲ e r k á
-# vʲ è t n a d z ó r	vʲ è t n a d z ó r a
-# vʲ e t ó ʃ nʲ i k	vʲ e t ó ʃ nʲ i k a
-# vʲ e t ó ʃ nʲ i ʧʲ e s t v o	vʲ e t ó ʃ nʲ i ʧʲ e s t v a
-# vʲ é t o ʃ	vʲ é t o ʃ i
-# vʲ è t p ú n k t	vʲ è t p ú n k t a
-# vʲ é t rʲ e nʲ i k	vʲ é t rʲ e nʲ i k a
-# vʲ é t rʲ e n o s tʲ	vʲ é t rʲ e n o s tʲ i
-# vʲ e t rʲ í l o	vʲ e t rʲ í l a
-# vʲ e t r o b ó j	vʲ e t r o b ó j a
-# vʲ e t r o v á l	vʲ e t r o v á l a
-# vʲ e t r o g ó n	vʲ e t r o g ó n a
-# vʲ e t r o g ó n	vʲ e t r o g ó n a
-# vʲ è t r o d vʲ í g a tʲ e lʲ	vʲ è t r o d vʲ í g a tʲ e lʲ a
-# vʲ e t r o l ó m	vʲ e t r o l ó m a
-# vʲ e t r o mʲ é r	vʲ e t r o mʲ é r a
-# bʲ e s p rʲ i s t r á s tʲ i j e	bʲ e s p rʲ i s t r á s tʲ i j a
-# bʲ e s p rʲ i s t r á s t n o s tʲ	bʲ e s p rʲ i s t r á s t n o s tʲ i
-# bʲ e s p rʲ i tʲ a z á tʲ e lʲ n o s tʲ	bʲ e s p rʲ i tʲ a z á tʲ e lʲ n o s tʲ i
-# bʲ e s p rʲ i ʧʲ í n n o s tʲ	bʲ e s p rʲ i ʧʲ í n n o s tʲ i
-# bʲ e s p rʲ i j ú t n o s tʲ	bʲ e s p rʲ i j ú t n o s tʲ i
-# bʲ e s p r o s vʲ é t n o s tʲ	bʲ e s p r o s vʲ é t n o s tʲ i
-# bʲ e s p ú t nʲ i k	bʲ e s p ú t nʲ i k a
-# bʲ e s p ú t s t v o	bʲ e s p ú t s t v a
-# bʲ e s p ú tʲ j e	bʲ e s p ú tʲ j a
-# bʲ e s s vʲ á z n o s tʲ	bʲ e s s vʲ á z n o s tʲ i
-# bʲ e s sʲ e z ó nʲ j e	bʲ e s sʲ e z ó nʲ j a
-# bʲ e s sʲ e mʲ e r o v á nʲ i j e	bʲ e s sʲ e mʲ e r o v á nʲ i j a
-# bʲ e s sʲ e r dʲ é ʧʲ i j e	bʲ e s sʲ e r dʲ é ʧʲ i j a
-# bʲ e s sʲ e r dʲ é ʧʲ n o s tʲ	bʲ e s sʲ e r dʲ é ʧʲ n o s tʲ i
-# bʲ e s sʲ í lʲ i j e	bʲ e s sʲ í lʲ i j a
-# bʲ e s sʲ i s tʲ é m n o s tʲ	bʲ e s sʲ i s tʲ é m n o s tʲ i
-# bʲ e s s l á vʲ i j e	bʲ e s s l á vʲ i j a
-# bʲ e s s l á v n o s tʲ	bʲ e s s l á v n o s tʲ i
-# bʲ e s s l o vʲ é s n o s tʲ	bʲ e s s l o vʲ é s n o s tʲ i
-# bʲ e s s mʲ é n n o s tʲ	bʲ e s s mʲ é n n o s tʲ i
-# bʲ e s s mʲ é r tʲ i j e	bʲ e s s mʲ é r tʲ i j a
-# bʲ e s s mʲ é r t nʲ i k	bʲ e s s mʲ é r t nʲ i k a
-# bʲ e s s mʲ é r t n o s tʲ	bʲ e s s mʲ é r t n o s tʲ i
-# bʲ e s s m í s lʲ e n n o s tʲ	bʲ e s s m í s lʲ e n n o s tʲ i
-# bʲ e s s m í s lʲ i j e	bʲ e s s m í s lʲ i j a
-# bʲ e s s nʲ é ʒ n o s tʲ	bʲ e s s nʲ é ʒ n o s tʲ i
-# bʲ e s s nʲ é ʒ j e	bʲ e s s nʲ é ʒ j a
-# bʲ e s s ó vʲ e s t n o s tʲ	bʲ e s s ó vʲ e s t n o s tʲ i
-# bʲ e s s o dʲ e r ʒ á tʲ e lʲ n o s tʲ	bʲ e s s o dʲ e r ʒ á tʲ e lʲ n o s tʲ i
-# bʲ e s s o z n á tʲ e lʲ n o s tʲ	bʲ e s s o z n á tʲ e lʲ n o s tʲ i
-# bʲ e s s o s l ó v n o s tʲ	bʲ e s s o s l ó v n o s tʲ i
-# bʲ e s s o j ú zʲ i j e	bʲ e s s o j ú zʲ i j a
-# bʲ e s s p ó r n o s tʲ	bʲ e s s p ó r n o s tʲ i
-# bʲ e s s rʲ é b rʲ e nʲ i k	bʲ e s s rʲ é b rʲ e nʲ i k a
-# bʲ e s s r ó ʧʲ n o s tʲ	bʲ e s s r ó ʧʲ n o s tʲ i
-# bʲ e s s t r á s tʲ i j e	bʲ e s s t r á s tʲ i j a
-# bʲ e s s t r á s t n o s tʲ	bʲ e s s t r á s t n o s tʲ i
-# bʲ e s s t r á ʃ i j e	bʲ e s s t r á ʃ i j a
-# bʲ e s s t í d nʲ i k	bʲ e s s t í d nʲ i k a
-# bʲ e s s t í d n o s tʲ	bʲ e s s t í d n o s tʲ i
-# bʲ e s s t í d s t v o	bʲ e s s t í d s t v a
-# bʲ e s sʲ u ʒ é t n o s tʲ	bʲ e s sʲ u ʒ é t n o s tʲ i
-# bʲ é s t	bʲ é s t a
-# bʲ e s t á k t n o s tʲ	bʲ e s t á k t n o s tʲ i
-# bʲ e s t o v á rʲ j e	bʲ e s t o v á rʲ j a
-# bʲ e s t o l k ó v o s tʲ	bʲ e s t o l k ó v o s tʲ i
-# bʲ é s t o l o ʧʲ	bʲ é s t o l o ʧʲ i
-# bʲ é s t o l o ʧʲ	bʲ é s t o l o ʧʲ i
-# bʲ e s t rʲ é pʲ e t n o s tʲ	bʲ e s t rʲ é pʲ e t n o s tʲ i
-# bʲ e s t sʲ é l lʲ e r	bʲ e s t sʲ é l lʲ e r a
-# bʲ e s f ó r mʲ e n n o s tʲ	bʲ e s f ó r mʲ e n n o s tʲ i
-# bʲ e s x a r á k tʲ e r n o s tʲ	bʲ e s x a r á k tʲ e r n o s tʲ i
-# bʲ e s xʲ í t r o s t n o s tʲ	bʲ e s xʲ í t r o s t n o s tʲ i
-# bʲ e s x lʲ é bʲ j e	bʲ e s x lʲ é bʲ j a
-# bʲ e s x ó z n o s tʲ	bʲ e s x ó z n o s tʲ i
-# bʲ e s x o zʲ á j s t vʲ e n n o s tʲ	bʲ e s x o zʲ á j s t vʲ e n n o s tʲ i
-# bʲ e s x rʲ e bʲ é t n o s tʲ	bʲ e s x rʲ e bʲ é t n o s tʲ i
-# bʲ e s ʦ vʲ é t n o s tʲ	bʲ e s ʦ vʲ é t n o s tʲ i
-# bʲ e s ʦ é lʲ n o s tʲ	bʲ e s ʦ é lʲ n o s tʲ i
-# bʲ e s ʦ e n z ú r n o s tʲ	bʲ e s ʦ e n z ú r n o s tʲ i
-# bʲ e s ʦ é n n o s tʲ	bʲ e s ʦ é n n o s tʲ i
-# bʲ e s ʦ é n o k	bʲ e s ʦ é n k a
-# bʲ e s ʦ e rʲ e m ó n n o s tʲ	bʲ e s ʦ e rʲ e m ó n n o s tʲ i
-# bʲ e s ʧʲ e l o vʲ é ʧʲ i j e	bʲ e s ʧʲ e l o vʲ é ʧʲ i j a
-# bʲ e s ʧʲ e l o vʲ é ʧʲ n o s tʲ	bʲ e s ʧʲ e l o vʲ é ʧʲ n o s tʲ i
-# bʲ e s ʧʲ é s t n o s tʲ	bʲ e s ʧʲ é s t n o s tʲ i
-# bʲ e s ʧʲ é s tʲ j e	bʲ e s ʧʲ é s tʲ j a
-# bʲ e s ʧʲ í nʲ i j e	bʲ e s ʧʲ í nʲ i j a
-# bʲ e s ʧʲ í n s t v o	bʲ e s ʧʲ í n s t v a
-# bʲ e s ʧʲ í s lʲ e n n o s tʲ	bʲ e s ʧʲ í s lʲ e n n o s tʲ i
-# bʲ e s ʧʲ ú v s t vʲ e n n o s tʲ	bʲ e s ʧʲ ú v s t vʲ e n n o s tʲ i
-# bʲ e s ʧʲ ú v s t vʲ i j e	bʲ e s ʧʲ ú v s t vʲ i j a
-# bʲ e s ʃ a b á ʃ n o s tʲ	bʲ e s ʃ a b á ʃ n o s tʲ i
-# bʲ e s ʃ ó r s t n o s tʲ	bʲ e s ʃ ó r s t n o s tʲ i
-# bʲ e s ʃ ú m n o s tʲ	bʲ e s ʃ ú m n o s tʲ i
-# bʲ e t a j í n	bʲ e t a j í n a
-# bʲ e t a t r ó n	bʲ e t a t r ó n a
-# bʲ e tʲ é lʲ	bʲ e tʲ é lʲ a
-# bʲ e t ó n	bʲ e t ó n a
-# bʲ e t o nʲ í r o v a nʲ i j e	bʲ e t o nʲ í r o v a nʲ i j a
-# bʲ e t o nʲ í t	bʲ e t o nʲ í t a
-# bʲ e t o n o v ó z	bʲ e t o n o v ó z a
-# bʲ e t ò n o n a s ó s	bʲ e t ò n o n a s ó s a
-# bʲ e t ó n ʃʃʲ i k	bʲ e t ó n ʃʃʲ i k a
-# bʲ è f s t r ó g a n o v	bʲ è f s t r ó g a n o v a
-# bʲ e ʧʲ e v nʲ í k	bʲ e ʧʲ e v nʲ i k á
-# bʲ e ʃ a mʲ é lʲ	bʲ e ʃ a mʲ é lʲ i
-# bʲ e ʃ b a r m á k	bʲ e ʃ b a r m á k a
-# bʲ é ʃ e n s t v o	bʲ é ʃ e n s t v a
-# a r xʲ i p á s t o r s t v o	a r xʲ i p á s t o r s t v a
-# a r xʲ i p á s t i rʲ	a r xʲ i p á s t i rʲ a
-# a r xʲ i pʲ e l á g	a r xʲ i pʲ e l á g a
-# a r xʲ i p l ú t	a r xʲ i p l ú t a
-# a r xʲ i s t r a tʲ í g	a r xʲ i s t r a tʲ í g a
-# a r xʲ i tʲ é k t o r	a r xʲ i tʲ é k t o r a
-# a r xʲ i t r á v	a r xʲ i t r á v a
-# a r x o z á v r	a r x o z á v r a
-# a r x ó n t	a r x ó n t a
-# a r ʧʲ í nʲ e ʦ	a r ʧʲ í n ʦ a
-# a r ʃ í n	a r ʃ í n a
-# a r ʃ í n	a r ʃ í n a
-# a r ʃ í n nʲ i k	a r ʃ í n nʲ i k a
-# a r í k	a r í k a
-# a rʲ j e r g á r d	a rʲ j e r g á r d a
-# á s	á s a
-# a s bʲ é s t	a s bʲ é s t a
-# a s bʲ e s tʲ í t	a s bʲ e s tʲ í t a
-# a s bʲ è s t o bʲ e t ó n	a s bʲ è s t o bʲ e t ó n a
-# a s bʲ e s t o nʲ í t	a s bʲ e s t o nʲ í t a
-# a s bʲ è s t o ʦ e mʲ é n t	a s bʲ è s t o ʦ e mʲ é n t a
-# a s b o lʲ í t	a s b o lʲ í t a
-# à s b o ʦ e mʲ é n t	à s b o ʦ e mʲ é n t a
-# a sʲ e k s u á lʲ n o s tʲ	a sʲ e k s u á lʲ n o s tʲ i
-# a sʲ é s s o r	a sʲ é s s o r a
-# a sʲ é s s o r	a sʲ é s s o r a
-# a sʲ í dʲ e t o n	a sʲ í dʲ e t o n a
-# a sʲ i d ó l	a sʲ i d ó l a
-# a sʲ i m mʲ e t rʲ í ʧʲ n o s tʲ	a sʲ i m mʲ e t rʲ í ʧʲ n o s tʲ i
-# a s k a nʲ í t	a s k a nʲ í t a
-# a s k a rʲ i d ó z	a s k a rʲ i d ó z a
-# a s kʲ é r	a s kʲ é r a
+ʒ í r	ʒ í r a
+z a b ó rʲ i ʃʃʲ e	z a b ó rʲ i ʃʃʲ i
+z a v ó dʲ i ʃʃʲ e	z a v ó dʲ i ʃʃʲ i
+z a ʧʲ é s tʲ sʲ a	z a ʧʲ tʲ ó m sʲ a
+zʲ é n kʲ e r	zʲ é n kʲ e r a
+k a dʲ é t	k a dʲ é t a
+k á p sʲ e lʲ	k á p sʲ e lʲ a
+k a rʲ é l	k a rʲ é l a
+k a r t vʲ é l	k a r t vʲ é l a
+k á u pʲ e r	k á u pʲ e r a
+kʲ i r a sʲ í r	kʲ i r a sʲ í r a
+k l á p a n	k l á p a n a
+k lʲ é j	k lʲ é j a
+k o ʒ ú x	k o ʒ u x á
+k o s t rʲ í ʃʃʲ e	k o s t rʲ í ʃʃʲ a
+k o t lʲ í ʃʃʲ e	k o t lʲ í ʃʃʲ a
+k rʲ u ʧʲ í ʃʃʲ e	k rʲ u ʧʲ í ʃʃʲ a
+k u sʲ í ʃʃʲ e	k u sʲ í ʃʃʲ a
+kʲ u rʲ í n	kʲ u rʲ í n a
+lʲ è j b - g u s á r	lʲ è j b - g u s á r a
+lʲ é mʲ e x	lʲ e mʲ e x á
+lʲ e sʲ í ʃʃʲ e	lʲ e sʲ í ʃʃʲ a
+lʲ í sʲ e lʲ	lʲ í sʲ e lʲ a
+lʲ ú t nʲ a	lʲ ú t nʲ i
+m a nʲ ʧʲ ʒ ú r	m a nʲ ʧʲ ʒ ú r a
+m á r sʲ e lʲ	m á r sʲ e lʲ a
+mʲ e g rʲ é l	mʲ e g rʲ é l a
+mʲ ó d	mʲ ó d a
+mʲ é l	mʲ é l a
+mʲ é r gʲ e lʲ	mʲ é r gʲ e lʲ a
+mʲ é x	mʲ é x a
+m ó z g	m ó z g a
+m o r ó zʲ i ʃʃʲ e	m o r ó zʲ i ʃʃʲ a
+m rʲ é ʒ a	m rʲ é ʒ i
+m ú fʲ e lʲ	m ú fʲ e lʲ a
+m ú ʃ kʲ e lʲ	m ú ʃ kʲ e lʲ a
+n á gʲ e lʲ	n á gʲ e lʲ a
+n a r ó dʲ i ʃʃʲ e	n a r ó dʲ i ʃʃʲ i
+n g a n a s á n	n g a n a s á n a
+nʲ í p pʲ e lʲ	nʲ í p pʲ e lʲ a
+n o ʒ í ʃʃʲ e	n o ʒ í ʃʃʲ i
+o b ʧʲ é s tʲ sʲ a	o b o ʧʲ tʲ ó m sʲ a
+o g nʲ í ʃʃʲ e	o g nʲ í ʃʃʲ i
+pʲ é lʲ e n g	pʲ é lʲ e n g a
+p lʲ í n t u s	p lʲ í n t u s a
+p nʲ í ʃʃʲ e	p nʲ í ʃʃʲ i
+p o ʒ á rʲ i ʃʃʲ e	p o ʒ á rʲ i ʃʃʲ a
+p r o s t i nʲ á	p r o s t i nʲ í
+r á kʲ e lʲ	r á kʲ e lʲ a
+r a s ʧʲ é s tʲ sʲ a	r a z o ʧʲ tʲ ó m sʲ a
+rʲ í gʲ e lʲ	rʲ í gʲ e lʲ a
+r ú m pʲ e lʲ	r ú m pʲ e lʲ a
+s a r m á t	s a r m á t a
+s vʲ é t	s vʲ é t a
+sʲ é j nʲ e r	sʲ é j nʲ e r a
+s k ó bʲ e lʲ	s k ó bʲ e lʲ a
+s k rʲ é pʲ e r	s k rʲ é pʲ e r a
+s k r ú b bʲ e r	s k r ú b bʲ e r a
+s nʲ é g	s nʲ é g a
+s nʲ e ʒ í ʃʃʲ e	s nʲ e ʒ í ʃʃʲ i
+s ó k	s ó k a
+s pʲ í r t	s pʲ í r t a
+s t á kʲ e r	s t á kʲ e r a
+s t á k sʲ e lʲ	s t á k sʲ e lʲ a
+s t o ʒ í ʃʃʲ e	s t o ʒ í ʃʃʲ i
+s t o lʲ í ʃʃʲ e	s t o lʲ í ʃʃʲ i
+s t ó p o r	s t ó p o r a
+s u g r ó bʲ i ʃʃʲ e	s u g r ó bʲ i ʃʃʲ i
+s ú p	s ú p a
+t a b a ʧʲ í ʃʃʲ e	t a b a ʧʲ í ʃʃʲ a
+t á n kʲ e r	t á n kʲ e r a
+tʲ é n dʲ e r	tʲ é n dʲ e r a
+t o mʲ í ʃʃʲ e	t o mʲ í ʃʃʲ a
+t o p o rʲ í ʃʃʲ e	t o p o rʲ í ʃʃʲ a
+t ó p sʲ e lʲ	t ó p sʲ e lʲ a
+t o x á r	t o x á r a
+t rʲ í j e r	t rʲ í j e r a
+t rʲ í sʲ e lʲ	t rʲ í sʲ e lʲ a
+t rʲ ú m	t rʲ ú m a
+t rʲ ú m sʲ e lʲ	t rʲ ú m sʲ e lʲ a
+t u r k mʲ é n	t u r k mʲ é n a
+t u ʃ í n	t u ʃ í n a
+u j g ú r	u j g ú r a
+u l á n	u l á n a
+f rʲ é zʲ e r	f rʲ é zʲ e r a
+xʲ e v s ú r	xʲ e v s ú r a
+x o l o dʲ í ʃʃʲ e	x o l o dʲ í ʃʃʲ i
+ʦ a x ú r	ʦ a x ú r a
+ʧʲ á d	ʧʲ á d a
+ʧʲ á j	ʧʲ á j a
+ʧʲ í zʲ e lʲ	ʧʲ í zʲ e lʲ a
+ʃ á bʲ e r	ʃ á bʲ e r a
+ʃ ó l k	ʃ ó l k a
+ʃ kʲ é n tʲ e lʲ	ʃ kʲ é n tʲ e lʲ a
+ʃ p á tʲ e lʲ	ʃ p á tʲ e lʲ a
+ʃ p á x tʲ e lʲ	ʃ p á x tʲ e lʲ a
+ʃ pʲ í n dʲ e lʲ	ʃ pʲ í n dʲ e lʲ a
+ʃ tʲ í xʲ e lʲ	ʃ tʲ í xʲ e lʲ a
+j a n i ʧʲ á r	j a n i ʧʲ á r a
+g l ú ʃ	g l u ʃ í
+g r ó b	g r o b á
+k ú m ʒ a	k ú m ʒ i
+k ʃ á t rʲ i j a	k ʃ á t rʲ i j i
+p á rʲ i j a	p á rʲ i j i
+r a s tʲ é rʲ a	r a s tʲ é rʲ i
+s ó nʲ a	s ó nʲ i
+m á j j a	m á j j i
+m á k	m á k a
+m a k á k a	m a k á kʲ i
+m a k a r ó nʲ i n a	m a k a r ó nʲ i n i
+m a kʲ e d ó n k a	m a kʲ e d ó n kʲ i
+m a kʲ é t ʧʲ i ʦ a	m a kʲ é t ʧʲ i ʦ i
+m a kʲ í t r a	m a kʲ í t r i
+m á k kʲ i j a	m á k kʲ i j i
+m a k l á ʧʲ k a	m a k l á ʧʲ kʲ i
+m á k o vʲ i n a	m á k o vʲ i n i
+m á k o vʲ i ʦ a	m á k o vʲ i ʦ i
+m á k o v k a	m á k o v kʲ i
+m a k r o kʲ e f á lʲ i j a	m a k r o kʲ e f á lʲ i j i
+m à k r o m o lʲ é k u l a	m à k r o m o lʲ é k u l i
+m à k r o s p ó r a	m à k r o s p ó r i
+m à k r o s t r u k t ú r a	m à k r o s t r u k t ú r i
+m à k r o f o t o g r á fʲ i j a	m à k r o f o t o g r á fʲ i j i
+m a k r o f ò t o s j ó m k a	m a k r o f o t o s j ó m kʲ i
+m a k r o ʦ e f á lʲ i j a	m a k r o ʦ e f á lʲ i j i
+m á k s a	m á k s i
+m á k sʲ i m a	m á k sʲ i m i
+m a k sʲ i m a lʲ í s t k a	m a k sʲ i m a lʲ í s t kʲ i
+m à k sʲ i - j ú b k a	m à k sʲ i - j ú b kʲ i
+m a k u l a t ú r a	m a k u l a t ú r i
+m a k ú x a	m a k ú xʲ i
+m a k ú ʃ k a	m a k ú ʃ kʲ i
+m a l á g a	m a l á gʲ i
+m a l á j k a	m a l á j kʲ i
+m a l a k o l ó gʲ i j a	m a l a k o l ó gʲ i j i
+m a l á ʃ e ʧʲ k a	m a l á ʃ e ʧʲ kʲ i
+m a lʲ í n a	m a lʲ í n i
+m a lʲ í n k a	m a lʲ í n kʲ i
+m a lʲ í n o v k a	m a lʲ í n o v kʲ i
+m á lʲ i ʦ a	m á lʲ i ʦ i
+m á l k a	m á l kʲ i
+m a l lʲ e j i nʲ i z á ʦ i j a	m a l lʲ e j i nʲ i z á ʦ i j i
+m a l o vʲ é r k a	m a l o vʲ é r kʲ i
+m a l o d ó j k a	m a l o d ó j kʲ i
+m a l o lʲ é t k a	m a l o lʲ é t kʲ i
+m a l o lʲ i t r á ʒ k a	m a l o lʲ i t r á ʒ kʲ i
+m a l o mʲ é r k a	m a l o mʲ é r kʲ i
+m a l o r o s sʲ i j á n k a	m a l o r o s sʲ i j á n kʲ i
+m a l o r ó s s k a	m a l o r ó s s kʲ i
+m a l í ʃ k a	m a l í ʃ kʲ i
+m a l i ʃ nʲ á	m a l i ʃ nʲ í
+m á lʲ v a	m á lʲ v i
+m a lʲ v á zʲ i j a	m a lʲ v á zʲ i j i
+m a lʲ t ó z a	m a lʲ t ó z i
+m a lʲ ʧʲ í ʃ e ʧʲ k a	m a lʲ ʧʲ í ʃ e ʧʲ kʲ i
+m a lʲ ʧʲ í ʃ k a	m a lʲ ʧʲ í ʃ kʲ i
+m a lʲ ʧʲ ó n k a	m a lʲ ʧʲ ó n kʲ i
+m a lʲ ʧʲ u g á ʃ k a	m a lʲ ʧʲ u g á ʃ kʲ i
+m a lʲ ú t k a	m a lʲ ú t kʲ i
+m a lʲ ú t o ʧʲ k a	m a lʲ ú t o ʧʲ kʲ i
+m a lʲ á v k a	m a lʲ á v kʲ i
+m a lʲ a rʲ í j a	m a lʲ a rʲ í j i
+m á m a	m á m i
+m a m a l í g a	m a m a l í gʲ i
+m a m á nʲ a	m a m á nʲ i
+m a m á ʃ a	m a m á ʃ i
+m a m á ʃ e nʲ k a	m a m á ʃ e nʲ kʲ i
+m á mʲ e nʲ k a	m á mʲ e nʲ kʲ i
+m á m k a	m á m kʲ i
+m a m ó n a	m a m ó n i
+m á m o nʲ k a	m á m o nʲ kʲ i
+m á m o ʧʲ k a	m á m o ʧʲ kʲ i
+m a m ú lʲ a	m a m ú lʲ i
+m a m ú sʲ a	m a m ú sʲ i
+m á m u ʃ k a	m á m u ʃ kʲ i
+m a n a tʲ j á	m a n a tʲ j í
+m a n g ú s t a	m a n g ú s t i
+m a n d a rʲ í n k a	m a n d a rʲ í n kʲ i
+m a n dʲ í b u l a	m a n dʲ í b u l i
+m a n d ó l a	m a n d ó l i
+m a n d o lʲ í n a	m a n d o lʲ í n i
+m a n d o lʲ i nʲ í s t k a	m a n d o lʲ i nʲ í s t kʲ i
+m a n d r a g ó r a	m a n d r a g ó r i
+m a nʲ e kʲ é n ʃʃʲ i ʦ a	m a nʲ e kʲ é n ʃʃʲ i ʦ i
+m a nʲ é r a	m a nʲ é r i
+m a nʲ é r k a	m a nʲ é r kʲ i
+m a n ʒ é t a	m a n ʒ é t i
+m a n ʒ é t k a	m a n ʒ é t kʲ i
+m a nʲ i kʲ ú r ʃ a	m a nʲ i kʲ ú r ʃ i
+m a nʲ í l o v ʃʃʲ i n a	m a nʲ í l o v ʃʃʲ i n i
+m a nʲ i ó k a	m a nʲ i ó kʲ i
+m a nʲ i p u lʲ á ʦ i j a	m a nʲ i p u lʲ á ʦ i j i
+m a nʲ i fʲ e s t á n t k a	m a nʲ i fʲ e s t á n t kʲ i
+m a nʲ i fʲ e s t á ʦ i j a	m a nʲ i fʲ e s t á ʦ i j i
+m a nʲ í ʃ k a	m a nʲ í ʃ kʲ i
+m á nʲ i j a	m á nʲ i j i
+m á n k a	m á n kʲ i
+m a n kʲ i r ó v k a	m a n kʲ i r ó v kʲ i
+m á n n a	m á n n i
+m a n s á r d a	m a n s á r d i
+m a n sʲ í j k a	m a n sʲ í j kʲ i
+m a n tʲ í lʲ k a	m a n tʲ í lʲ kʲ i
+m a n tʲ í lʲ j a	m a n tʲ í lʲ j i
+m á n tʲ i j a	m á n tʲ i j i
+m a n u f a k t ú r a	m a n u f a k t ú r i
+m a nʲ ʧʲ ʒ ú r k a	m a nʲ ʧʲ ʒ ú r kʲ i
+m a nʲ j á k	m a nʲ j a k á
+m a nʲ j á ʧʲ k a	m a nʲ j á ʧʲ kʲ i
+m á r a	m á r i
+t á tʲ	t á tʲ a
+t à u - s a g í z	t à u - s a g í z a
+t a xʲ e ó mʲ e t r	t a xʲ e ó mʲ e t r a
+t a xʲ í mʲ e t r	t a xʲ í mʲ e t r a
+t a x ó mʲ e t r	t a x ó mʲ e t r a
+t a ʦ é t	t a ʦ é t a
+t a ʧʲ á lʲ ʃʃʲ i k	t a ʧʲ á lʲ ʃʃʲ i k a
+t á ʧʲ e ʧʲ nʲ i k	t á ʧʲ e ʧʲ nʲ i k a
+t á j a nʲ i j e	t á j a nʲ i j a
+t v á rʲ	t v á rʲ i
+t vʲ e r dʲ é nʲ i j e	t vʲ e r dʲ é nʲ i j a
+t vʲ e r d o zʲ ó m	t vʲ e r d o zʲ ó m a
+t vʲ e r d o mʲ é r	t vʲ e r d o mʲ é r a
+t vʲ ó r d o s tʲ	t vʲ ó r d o s tʲ i
+t vʲ é r dʲ	t vʲ é r dʲ i
+t vʲ í n	t vʲ í n a
+t vʲ i n dʲ é k	t vʲ i n dʲ é k a
+t vʲ í s t	t vʲ í s t a
+t v o rʲ é nʲ i j e	t v o rʲ é nʲ i j a
+t v o rʲ í l o	t v o rʲ í l a
+t v o r ó ʒ nʲ i k	t v o r ó ʒ nʲ i k a
+t v ó r ʧʲ e s t v o	t v ó r ʧʲ e s t v a
+tʲ e á t r	tʲ e á t r a
+tʲ e a t r á l	tʲ e a t r á l a
+tʲ e a t r á lʲ n o s tʲ	tʲ e a t r á lʲ n o s tʲ i
+tʲ e a t r o vʲ é d	tʲ e a t r o vʲ é d a
+tʲ e a t r o vʲ é dʲ e nʲ i j e	tʲ e a t r o vʲ é dʲ e nʲ i j a
+tʲ e bʲ e nʲ ó k	tʲ e bʲ e nʲ k á
+tʲ e v t ó n	tʲ e v t ó n a
+tʲ e z a v rʲ í r o v a nʲ i j e	tʲ e z a v rʲ í r o v a nʲ i j a
+tʲ e z á u r u s	tʲ e z á u r u s a
+tʲ é zʲ i s	tʲ é zʲ i s a
+tʲ e z o j i mʲ e nʲ í t s t v o	tʲ e z o j i mʲ e nʲ í t s t v a
+tʲ e j í z m	tʲ e j í z m a
+tʲ e j í n	tʲ e j í n a
+tʲ e j í s t	tʲ e j í s t a
+tʲ e j l o rʲ í z m	tʲ e j l o rʲ í z m a
+tʲ é k s t	tʲ é k s t a
+tʲ e k s tʲ í lʲ	tʲ e k s tʲ i lʲ á
+tʲ e k s tʲ í lʲ ʃʃʲ i k	tʲ e k s tʲ í lʲ ʃʃʲ i k a
+tʲ e k s t o vʲ í k	tʲ e k s t o vʲ i k á
+tʲ e k s t o vʲ i nʲ í t	tʲ e k s t o vʲ i nʲ í t a
+tʲ e k s t o lʲ í t	tʲ e k s t o lʲ í t a
+tʲ e k s t ó l o g	tʲ e k s t ó l o g a
+tʲ e k s t u á lʲ n o s tʲ	tʲ e k s t u á lʲ n o s tʲ i
+tʲ e k t o nʲ í s t	tʲ e k t o nʲ í s t a
+tʲ e k ú ʧʲ e s tʲ	tʲ e k ú ʧʲ e s tʲ i
+tʲ è lʲ e a v t ó g r a f	tʲ è lʲ e a v t ó g r a f a
+tʲ e lʲ e vʲ í dʲ e nʲ i j e	tʲ e lʲ e vʲ í dʲ e nʲ i j a
+tʲ e lʲ e vʲ í z o r	tʲ e lʲ e vʲ í z o r a
+tʲ e lʲ e g r á f	tʲ e lʲ e g r á f a
+tʲ e lʲ e g r a fʲ í s t	tʲ e lʲ e g r a fʲ í s t a
+tʲ e lʲ é ʒ e ʧʲ nʲ i k	tʲ e lʲ é ʒ e ʧʲ nʲ i k a
+tʲ e lʲ é ʒ nʲ i k	tʲ e lʲ é ʒ nʲ i k a
+tʲ è lʲ e z rʲ í tʲ e lʲ	tʲ è lʲ e z rʲ í tʲ e lʲ a
+tʲ è lʲ e k o m mʲ e n t á t o r	tʲ è lʲ e k o m mʲ e n t á t o r a
+tʲ e lʲ e mʲ é t r	tʲ e lʲ e mʲ é t r a
+tʲ e lʲ e n ó m u s	tʲ e lʲ e n ó m u s a
+tʲ è lʲ e o b j e k tʲ í v	tʲ è lʲ e o b j e k tʲ í v a
+tʲ e lʲ e o z á v r	tʲ e lʲ e o z á v r a
+tʲ é lʲ e pʲ e nʲ	tʲ é lʲ e p nʲ a
+tʲ é lʲ e pʲ e nʲ	tʲ é lʲ e p nʲ a
+tʲ è lʲ e pʲ e rʲ e d á t ʧʲ i k	tʲ è lʲ e pʲ e rʲ e d á t ʧʲ i k a
+tʲ e lʲ e s k ó p	tʲ e lʲ e s k ó p a
+tʲ e lʲ é s n o s tʲ	tʲ e lʲ é s n o s tʲ i
+tʲ e lʲ é s tʲ i x	tʲ e lʲ é s tʲ i x a
+tʲ e lʲ e t á j p	tʲ e lʲ e t á j p a
+tʲ e lʲ e t a j pʲ í s t	tʲ e lʲ e t a j pʲ í s t a
+tʲ è lʲ e u p r a v lʲ é nʲ i j e	tʲ è lʲ e u p r a v lʲ é nʲ i j a
+tʲ e lʲ e f ó n	tʲ e lʲ e f ó n a
+tʲ e lʲ e f o nʲ i zʲ í r o v a nʲ i j e	tʲ e lʲ e f o nʲ i zʲ í r o v a nʲ i j a
+tʲ e lʲ e f o nʲ í s t	tʲ e lʲ e f o nʲ í s t a
+tʲ è lʲ e ʦ é n t r	tʲ è lʲ e ʦ é n t r a
+tʲ è lʲ e e k r á n	tʲ è lʲ e e k r á n a
+tʲ e l l ú r	tʲ e l l ú r a
+tʲ e l l ú rʲ i j	tʲ e l l ú rʲ i j a
+tʲ é l o	tʲ é l a
+tʲ e l o d vʲ i ʒ é nʲ i j e	tʲ e l o d vʲ i ʒ é nʲ i j a
+tʲ e l o rʲ é z	tʲ e l o rʲ é z a
+tʲ e l o s l o ʒ é nʲ i j e	tʲ e l o s l o ʒ é nʲ i j a
+tʲ e l o x r a nʲ í tʲ e lʲ	tʲ e l o x r a nʲ í tʲ e lʲ a
+tʲ é lʲ nʲ i k	tʲ é lʲ nʲ i k a
+tʲ é lʲ fʲ e r	tʲ é lʲ fʲ e r a
+tʲ é lʲ ʦ e	tʲ é lʲ ʦ a
+tʲ e lʲ á t nʲ i k	tʲ e lʲ á t nʲ i k a
+tʲ é m b r	tʲ é m b r a
+tʲ é mʲ e nʲ	tʲ é mʲ e nʲ i
+tʲ é mʲ e ʧʲ k o	tʲ é mʲ e ʧʲ k a
+tʲ e m lʲ á k	tʲ e m lʲ a k á
+tʲ é m nʲ i k	tʲ é m nʲ i k a
+tʲ é m nʲ i k	tʲ é m nʲ i k a
+tʲ e m n o k ó ʒ i j	tʲ e m n o k ó ʒ e g o
+tʲ é m p	tʲ é m p a
+tʲ e m pʲ e r á mʲ e n t	tʲ e m pʲ e r á mʲ e n t a
+tʲ e m pʲ e r á mʲ e n t n o s tʲ	tʲ e m pʲ e r á mʲ e n t n o s tʲ i
+tʲ é mʲ	tʲ é mʲ i
+tʲ é mʲ a	tʲ é mʲ e nʲ i
+tʲ e n á k lʲ	tʲ e n á k lʲ a
+tʲ e n a r dʲ í t	tʲ e n a r dʲ í t a
+tʲ e n dʲ e n ʦ i ó z n o s tʲ	tʲ e n dʲ e n ʦ i ó z n o s tʲ i
+tʲ è nʲ e v i n ó s lʲ i v o s tʲ	tʲ è nʲ e v i n ó s lʲ i v o s tʲ i
+tʲ e nʲ e lʲ ú b	tʲ e nʲ e lʲ ú b a
+tʲ e nʲ e rʲ í f	tʲ e nʲ e rʲ í f a
+tʲ e nʲ ó t nʲ i k	tʲ e nʲ ó t nʲ i k a
+tʲ e n z ó mʲ e t r	tʲ e n z ó mʲ e t r a
+tʲ e n z o mʲ e t rʲ í s t	tʲ e n z o mʲ e t rʲ í s t a
+tʲ e nʲ í s t o s tʲ	tʲ e nʲ í s t o s tʲ i
+tʲ é n nʲ i s	tʲ é n nʲ i s a
+tʲ e n nʲ i sʲ í s t	tʲ e n nʲ i sʲ í s t a
+tʲ é n o r	tʲ é n o r a
+tʲ é n t	tʲ é n t a
+tʲ é nʲ	tʲ é nʲ i
+tʲ e o b r o mʲ í n	tʲ e o b r o mʲ í n a
+tʲ e o d o lʲ í t	tʲ e o d o lʲ í t a
+tʲ e ó l o g	tʲ e ó l o g a
+tʲ e o rʲ e tʲ i zʲ í r o v a nʲ i j e	tʲ e o rʲ e tʲ i zʲ í r o v a nʲ i j a
+tʲ e o rʲ é tʲ i k	tʲ e o rʲ é tʲ i k a
+tʲ e o rʲ e tʲ í ʧʲ n o s tʲ	tʲ e o rʲ e tʲ í ʧʲ n o s tʲ i
+tʲ e o s ó f	tʲ e o s ó f a
+tʲ e p l ó	tʲ e p l á
+tʲ e p l o vʲ í k	tʲ e p l o vʲ i k á
+tʲ e p l o v ó z	tʲ e p l o v ó z a
+tʲ e p l o v ò z o s t r o j é nʲ i j e	tʲ e p l o v ò z o s t r o j é nʲ i j a
+tʲ e p l o j ó m k o s tʲ	tʲ e p l o j ó m k o s tʲ i
+tʲ e p l o lʲ ú b	tʲ e p l o lʲ ú b a
+tʲ e p l o mʲ é r	tʲ e p l o mʲ é r a
+tʲ e p l o n o sʲ í tʲ e lʲ	tʲ e p l o n o sʲ í tʲ e lʲ a
+tʲ e p l o o b mʲ é n	tʲ e p l o o b mʲ é n a
+tʲ e p l o o b mʲ é n nʲ i k	tʲ e p l o o b mʲ é n nʲ i k a
+tʲ e p l o o b r a z o v á nʲ i j e	tʲ e p l o o b r a z o v á nʲ i j a
+tʲ e p l o p r o v ó d	tʲ e p l o p r o v ó d a
+tʲ e p l o p r o v ó d n o s tʲ	tʲ e p l o p r o v ó d n o s tʲ i
+tʲ e p l o r ó d	tʲ e p l o r ó d a
+tʲ e p l o sʲ é tʲ	tʲ e p l o sʲ é tʲ i
+tʲ e p l o s n a b ʒ é nʲ i j e	tʲ e p l o s n a b ʒ é nʲ i j a
+tʲ e p l o s t ó j k o s tʲ	tʲ e p l o s t ó j k o s tʲ i
+tʲ e p l o t v ó r n o s tʲ	tʲ e p l o t v ó r n o s tʲ i
+tʲ e p l o tʲ é x nʲ i k	tʲ e p l o tʲ é x nʲ i k a
+tʲ e p l o u s t ó j ʧʲ i v o s tʲ	tʲ e p l o u s t ó j ʧʲ i v o s tʲ i
+tʲ e p l o x ó d	tʲ e p l o x ó d a
+tʲ e p l o ʦ e n t r á lʲ	tʲ e p l o ʦ e n t r á lʲ i
+tʲ e p l o e lʲ è k t r o ʦ e n t r á lʲ	tʲ e p l o e lʲ è k t r o ʦ e n t r á lʲ i
+tʲ e p l í nʲ	tʲ e p l í nʲ i
+tʲ e p lʲ á k	tʲ e p lʲ a k á
+tʲ e r a pʲ é v t	tʲ e r a pʲ é v t a
+l u k n ó	l u k n á
+l u k o m ó rʲ j e	l u k o m ó rʲ j a
+l u k ó ʃ e ʧʲ k o	l u k ó ʃ e ʧʲ k a
+l u k ó ʃ k o	l u k ó ʃ k a
+l ù n a - p á r k	l ù n a - p á r k a
+l u n a tʲ í z m	l u n a tʲ í z m a
+l u n á tʲ i k	l u n á tʲ i k a
+l ù n k o k o p á tʲ e lʲ	l ù n k o k o p á tʲ e lʲ a
+l ú n nʲ i k	l ú n nʲ i k a
+l u n o x ó d	l u n o x ó d a
+l ú nʲ	l u nʲ á
+l u o r a vʲ e t l á n	l u o r a vʲ e t l á n a
+l u p a n á r	l u p a n á r a
+l u p u lʲ í n	l u p u lʲ í n a
+l ú ʧʲ	l u ʧʲ á
+l u ʧʲ e z á r n o s tʲ	l u ʧʲ e z á r n o s tʲ i
+l ù ʧʲ e j i s p u s k á nʲ i j e	l ù ʧʲ e j i s p u s k á nʲ i j a
+l u ʧʲ é nʲ i j e	l u ʧʲ é nʲ i j a
+l ù ʧʲ e p rʲ e l o m lʲ é nʲ i j e	l ù ʧʲ e p rʲ e l o m lʲ é nʲ i j a
+l ú ʧʲ i k	l ú ʧʲ i k a
+l u ʧʲ í s t o s tʲ	l u ʧʲ í s t o s tʲ i
+l ú ʧʲ nʲ i k	l ú ʧʲ nʲ i k a
+l u ʃʃʲ é nʲ i j e	l u ʃʃʲ é nʲ i j a
+l u ʃʃʲ í l o	l u ʃʃʲ í l a
+l u ʃʃʲ í lʲ nʲ i k	l u ʃʃʲ í lʲ nʲ i k a
+l í ʒ nʲ i k	l í ʒ nʲ i k a
+l í k o	l í k a
+l i k o dʲ ó r	l i k o dʲ ó r a
+l i s ú n	l i s u n á
+l í s i j	l í s o g o
+l í ʧʲ k o	l í ʧʲ k a
+lʲ vʲ á t nʲ i k	lʲ vʲ á t nʲ i k a
+lʲ g ó t nʲ i k	lʲ g ó t nʲ i k a
+lʲ d ò o b r a z o v á nʲ i j e	lʲ d ò o b r a z o v á nʲ i j a
+lʲ n o v ó d	lʲ n o v ó d a
+lʲ n o v ó d s t v o	lʲ n o v ó d s t v a
+lʲ n ò v o l o k n ó	lʲ n o v o l o k n á
+lʲ n ò z a v ó d	lʲ n ò z a v ó d a
+lʲ n ò k o m b á j n	lʲ n ò k o m b á j n a
+lʲ n ò k o m bʲ i n á t	lʲ n ò k o m bʲ i n á t a
+lʲ n ò p rʲ a dʲ í lʲ ʃʃʲ i k	lʲ n ò p rʲ a dʲ í lʲ ʃʃʲ i k a
+lʲ n ò sʲ é mʲ a	lʲ n ò sʲ é mʲ e nʲ i
+lʲ n ò s o v x ó z	lʲ n ò s o v x ó z a
+lʲ n ò tʲ e rʲ e bʲ í lʲ ʃʃʲ i k	lʲ n ò tʲ e rʲ e bʲ í lʲ ʃʃʲ i k a
+lʲ s tʲ é ʦ	lʲ s tʲ e ʦ á
+lʲ s tʲ í v o s tʲ	lʲ s tʲ í v o s tʲ i
+lʲ j á l o	lʲ j á l a
+lʲ u b vʲ e o bʲ í lʲ n o s tʲ	lʲ u b vʲ e o bʲ í lʲ n o s tʲ i
+lʲ u bʲ é z nʲ i k	lʲ u bʲ é z nʲ i k a
+lʲ u bʲ é z n o s tʲ	lʲ u bʲ é z n o s tʲ i
+lʲ u bʲ í mʲ e ʦ	lʲ u bʲ í m ʦ a
+lʲ u bʲ í m ʧʲ i k	lʲ u bʲ í m ʧʲ i k a
+lʲ u bʲ í m i j	lʲ u bʲ í m o g o
+lʲ u bʲ í s t o k	lʲ u bʲ í s t k a
+lʲ u bʲ í tʲ e lʲ	lʲ u bʲ í tʲ e lʲ a
+lʲ u bʲ í tʲ e lʲ s t v o	lʲ u bʲ í tʲ e lʲ s t v a
+lʲ u b o v á nʲ i j e	lʲ u b o v á nʲ i j a
+lʲ u b ó v nʲ i k	lʲ u b ó v nʲ i k a
+lʲ u b o dʲ e j á nʲ i j e	lʲ u b o dʲ e j á nʲ i j a
+lʲ u b o z n á tʲ e lʲ n o s tʲ	lʲ u b o z n á tʲ e lʲ n o s tʲ i
+lʲ u b o m ú d r	lʲ u b o m ú d r a
+lʲ u b o m ú d rʲ i j e	lʲ u b o m ú d rʲ i j a
+lʲ u b o p í t n i j	lʲ u b o p í t n o g o
+lʲ u b o p í t s t v o	lʲ u b o p í t s t v a
+lʲ u b o s tʲ a ʒ á nʲ i j e	lʲ u b o s tʲ a ʒ á nʲ i j a
+lʲ ú vʲ e r s	lʲ ú vʲ e r s a
+lʲ ú d	lʲ ú d a
+lʲ ú d n o s tʲ	lʲ ú d n o s tʲ i
+lʲ u d o j é d	lʲ u d o j é d a
+lʲ u d o j é d s t v o	lʲ u d o j é d s t v a
+lʲ u j i zʲ í t	lʲ u j i zʲ í t a
+lʲ ú k	lʲ ú k a
+lʲ u k o v ó j	lʲ u k o v ó g o
+lʲ ú k s	lʲ ú k s a
+lʲ u k s mʲ é t r	lʲ u k s mʲ é t r a
+lʲ u lʲ à - kʲ e b á b	lʲ u lʲ à - kʲ e b á b a
+lʲ ú mʲ e n	lʲ ú mʲ e n a
+lʲ u mʲ e n o t r ó p	lʲ u mʲ e n o t r ó p a
+lʲ u mʲ i n á l	lʲ u mʲ i n á l a
+lʲ u mʲ i n ó g r a f	lʲ u mʲ i n ó g r a f a
+lʲ u mʲ i n o f ó r	lʲ u mʲ i n o f ó r a
+lʲ ù m pʲ e n - p r o lʲ e t a rʲ i á t	lʲ ù m pʲ e n - p r o lʲ e t a rʲ i á t a
+lʲ u nʲ é t	lʲ u nʲ é t a
+lʲ u pʲ í n	lʲ u pʲ í n a
+lʲ ú p u s	lʲ ú p u s a
+lʲ u s t rʲ í n	lʲ u s t rʲ í n a
+lʲ u tʲ e r á nʲ i n	lʲ u tʲ e r á nʲ i n a
+lʲ u tʲ e r á n s t v o	lʲ u tʲ e r á n s t v a
+lʲ u tʲ é ʦ i j	lʲ u tʲ é ʦ i j a
+lʲ ú tʲ i k	lʲ ú tʲ i k a
+lʲ ú tʲ i ʧʲ	lʲ ú tʲ i ʧʲ a
+lʲ u t nʲ í s t	lʲ u t nʲ í s t a
+lʲ ú t o s tʲ	lʲ ú t o s tʲ i
+lʲ ú f t	lʲ ú f t a
+lʲ ú e s	lʲ ú e s a
+lʲ a g u ʃ á t nʲ i k	lʲ a g u ʃ á t nʲ i k a
+lʲ a g ú ʃ e ʧʲ nʲ i k	lʲ a g ú ʃ e ʧʲ nʲ i k a
+lʲ a g ú ʃ nʲ i k	lʲ a g ú ʃ nʲ i k a
+lʲ á d	lʲ á d a
+lʲ á pʲ i s	lʲ á pʲ i s a
+lʲ à pʲ i s - l a z ú rʲ	lʲ à pʲ i s - l a z ú rʲ i
+lʲ á p s u s	lʲ á p s u s a
+lʲ á r d	lʲ á r d a
+lʲ á x	lʲ á x a
+m a v z o lʲ é j	m a v z o lʲ é j a
+m á v r	m á v r a
+m á g	m á g a
+m a g a zʲ í n	m a g a zʲ í n a
+m a g a zʲ í n ʧʲ i k	m a g a zʲ í n ʧʲ i k a
+m a g a zʲ í n ʃʃʲ i k	m a g a zʲ í n ʃʃʲ i k a
+m a g a r í ʧʲ	m a g a r i ʧʲ á
+m a gʲ í z m	m a gʲ í z m a
+m a gʲ í s tʲ e r s t v o	m a gʲ í s tʲ e r s t v a
+m a gʲ í s t r	m a gʲ í s t r a
+z a k ú t o k	z a k ú t k a
+z á l	z á l a
+z a l á v o k	z a l á v k a
+z a lʲ e g á nʲ i j e	z a lʲ e g á nʲ i j a
+z a lʲ ó ʒ i v a nʲ i j e	z a lʲ ó ʒ i v a nʲ i j a
+z á lʲ e ʒ	z á lʲ e ʒ i
+z a lʲ é sʲ j e	z a lʲ é sʲ j a
+z a lʲ ó t	z a lʲ ó t a
+z a lʲ í v	z a lʲ í v a
+z a lʲ i v á nʲ i j e	z a lʲ i v á nʲ i j a
+z a lʲ í vʲ i s t o s tʲ	z a lʲ í vʲ i s t o s tʲ i
+z a lʲ í v ʧʲ i k	z a lʲ í v ʧʲ i k a
+z a lʲ í v ʃʃʲ i k	z a lʲ í v ʃʃʲ i k a
+z a lʲ í z	z a lʲ í z a
+z a lʲ í z i v a nʲ i j e	z a lʲ í z i v a nʲ i j a
+z á l o	z á l a
+z a l ó g	z a l ó g a
+z a l ò g o d á tʲ e lʲ	z a l ò g o d á tʲ e lʲ a
+z a l ò g o dʲ e r ʒ á tʲ e lʲ	z a l ò g o dʲ e r ʒ á tʲ e lʲ a
+z a l o ʒ é nʲ i j e	z a l o ʒ é nʲ i j a
+z a l ó ʒ nʲ i k	z a l ó ʒ nʲ i k a
+z a l ó m	z a l ó m a
+z á l p	z á l p a
+z á m	z á m a
+z a m á lʲ i v a nʲ i j e	z a m á lʲ i v a nʲ i j a
+z a m á l ʧʲ i v a nʲ i j e	z a m á l ʧʲ i v a nʲ i j a
+z a m á nʲ i v a nʲ i j e	z a m á nʲ i v a nʲ i j a
+z a m á n ʧʲ i v o s tʲ	z a m á n ʧʲ i v o s tʲ i
+z a m á s lʲ i v a nʲ i j e	z a m á s lʲ i v a nʲ i j a
+z a m á x	z a m á x a
+z a m á ʧʲ i v a nʲ i j e	z a m á ʧʲ i v a nʲ i j a
+z a mʲ e d lʲ é nʲ i j e	z a mʲ e d lʲ é nʲ i j a
+z a mʲ é d lʲ e n n o s tʲ	z a mʲ é d lʲ e n n o s tʲ i
+z a mʲ e d lʲ í tʲ e lʲ	z a mʲ e d lʲ í tʲ e lʲ a
+z a mʲ e nʲ í m o s tʲ	z a mʲ e nʲ í m o s tʲ i
+z a mʲ e nʲ í tʲ e lʲ	z a mʲ e nʲ í tʲ e lʲ a
+z a mʲ é r	z a mʲ é r a
+z a mʲ e r z á nʲ i j e	z a mʲ e r z á nʲ i j a
+z a mʲ é r ʃʃʲ i k	z a mʲ é r ʃʃʲ i k a
+z a mʲ é s	z a mʲ é s a
+z a mʲ e s tʲ í tʲ e lʲ	z a mʲ e s tʲ í tʲ e lʲ a
+z a mʲ e s tʲ í tʲ e lʲ s t v o	z a mʲ e s tʲ í tʲ e lʲ s t v a
+z a mʲ ó t	z a mʲ ó t a
+z a mʲ e t á nʲ i j e	z a mʲ e t á nʲ i j a
+z a mʲ e ʧʲ á nʲ i j e	z a mʲ e ʧʲ á nʲ i j a
+z a mʲ e ʃ á tʲ e lʲ s t v o	z a mʲ e ʃ á tʲ e lʲ s t v a
+z a mʲ e ʃʃʲ é nʲ i j e	z a mʲ e ʃʃʲ é nʲ i j a
+z a mʲ i r á nʲ i j e	z a mʲ i r á nʲ i j a
+z a mʲ i rʲ é nʲ i j e	z a mʲ i rʲ é nʲ i j a
+z á m k n u t o s tʲ	z á m k n u t o s tʲ i
+z a m ó r	z a m ó r a
+z a m o r á ʒ i v a nʲ i j e	z a m o r á ʒ i v a nʲ i j a
+z a m ó r i ʃ	z a m ó r i ʃ a
+z a m ó ʧʲ nʲ i k	z a m ó ʧʲ nʲ i k a
+z a m o ʃʃʲ é nʲ i j e	z a m o ʃʃʲ é nʲ i j a
+z à m p o lʲ í t	z à m p o lʲ í t a
+z a m ú ʒ e s t v o	z a m ú ʒ e s t v a
+z a m u r ó v i v a nʲ i j e	z a m u r ó v i v a nʲ i j a
+z a m ú s o rʲ i v a nʲ i j e	z a m ú s o rʲ i v a nʲ i j a
+z a m i k á nʲ i j e	z a m i k á nʲ i j a
+z a m i k á j u ʃʃʲ i j	z a m i k á j u ʃʃʲ e g o
+z a m i s l o v á t o s tʲ	z a m i s l o v á t o s tʲ i
+z á n a vʲ e s	z á n a vʲ e s a
+z á n a vʲ e sʲ	z á n a vʲ e sʲ i
+z a n a vʲ é ʃ i v a nʲ i j e	z a n a vʲ é ʃ i v a nʲ i j a
+z a nʲ e sʲ é nʲ i j e	z a nʲ e sʲ é nʲ i j a
+z a nʲ i ʒ é nʲ i j e	z a nʲ i ʒ é nʲ i j a
+z a nʲ i m á tʲ e lʲ n o s tʲ	z a nʲ i m á tʲ e lʲ n o s tʲ i
+vʲ e nʲ é d	vʲ e nʲ é d a
+vʲ e nʲ é rʲ i k	vʲ e nʲ é rʲ i k a
+vʲ e nʲ e r ó l o g	vʲ e nʲ e r ó l o g a
+vʲ e nʲ é t	vʲ e nʲ é t a
+vʲ e nʲ é ʧʲ nʲ i k	vʲ e nʲ é ʧʲ nʲ i k a
+vʲ é n zʲ e lʲ	vʲ é n zʲ e lʲ a
+vʲ é nʲ i k	vʲ é nʲ i k a
+vʲ é n o	vʲ é n a
+vʲ é n tʲ e r ʃʃʲ i k	vʲ é n tʲ e r ʃʃʲ i k a
+vʲ e n tʲ i lʲ í r o v a nʲ i j e	vʲ e n tʲ i lʲ í r o v a nʲ i j a
+vʲ é n tʲ i lʲ	vʲ é n tʲ i lʲ a
+vʲ e n tʲ i lʲ á t o r	vʲ e n tʲ i lʲ á t o r a
+vʲ e n ʦ e n ó sʲ e ʦ	vʲ e n ʦ e n ó s ʦ a
+vʲ e n ʧʲ á nʲ i j e	vʲ e n ʧʲ á nʲ i j a
+vʲ é n ʧʲ i k	vʲ é n ʧʲ i k a
+vʲ é p rʲ	vʲ é p rʲ a
+vʲ é p s	vʲ é p s a
+vʲ e r a s k ó p	vʲ e r a s k ó p a
+vʲ e r bʲ é j nʲ i k	vʲ e r bʲ é j nʲ i k a
+vʲ e r b lʲ ú d	vʲ e r b lʲ ú d a
+vʲ e r b lʲ u d o v ó d s t v o	vʲ e r b lʲ u d o v ó d s t v a
+vʲ e r b lʲ u ʒ á t nʲ i k	vʲ e r b lʲ u ʒ á t nʲ i k a
+vʲ e r b lʲ u ʒ ó n o k	vʲ e r b lʲ u ʒ ó n k a
+vʲ e r b nʲ á k	vʲ e r b nʲ a k á
+vʲ e r b o v á nʲ i j e	vʲ e r b o v á nʲ i j a
+vʲ e r b ó v ʃʃʲ i k	vʲ e r b ó v ʃʃʲ i k a
+vʲ é r vʲ i j e	vʲ é r vʲ i j a
+vʲ é r vʲ	vʲ é r vʲ i
+vʲ e r dʲ í k t	vʲ e r dʲ í k t a
+vʲ e rʲ ó v o ʧʲ nʲ i k	vʲ e rʲ ó v o ʧʲ nʲ i k a
+vʲ é rʲ e d	vʲ é rʲ e d a
+vʲ e rʲ e z ʒ á nʲ i j e	vʲ e rʲ e z ʒ á nʲ i j a
+vʲ é rʲ e s	vʲ é rʲ e s a
+vʲ e rʲ e tʲ é n nʲ i k	vʲ e rʲ e tʲ é n nʲ i k a
+vʲ e rʲ e tʲ e n ó	vʲ e rʲ e tʲ e n á
+vʲ e rʲ e tʲ ó n ʃʃʲ i k	vʲ e rʲ e tʲ ó n ʃʃʲ i k a
+vʲ e rʲ é tʲ j e	vʲ e rʲ é tʲ j a
+vʲ e rʲ e ʃʃ á nʲ i j e	vʲ e rʲ e ʃʃ á nʲ i j a
+vʲ e rʲ í z m	vʲ e rʲ í z m a
+vʲ e rʲ í tʲ e lʲ	vʲ e rʲ í tʲ e lʲ a
+vʲ é r m a x t	vʲ é r m a x t a
+vʲ e r mʲ i k u lʲ í t	vʲ e r mʲ i k u lʲ í t a
+vʲ e r mʲ i lʲ ó n	vʲ e r mʲ i lʲ ó n a
+vʲ e r mʲ i ʃ é lʲ	vʲ e r mʲ i ʃ é lʲ i
+vʲ e r nʲ i s á ʒ	vʲ e r nʲ i s á ʒ a
+vʲ e r n o p ó d d a n n o s tʲ	vʲ e r n o p ó d d a n n o s tʲ i
+vʲ e r n o p ó d d a n n i j	vʲ e r n o p ó d d a n n o g o
+vʲ e r n o p ó d d a n s t v o	vʲ e r n o p ó d d a n s t v a
+vʲ é r n o s tʲ	vʲ é r n o s tʲ i
+vʲ e r nʲ j é r	vʲ e r nʲ j é r a
+vʲ é r o v a nʲ i j e	vʲ é r o v a nʲ i j a
+vʲ è r o j i s p o vʲ é d a nʲ i j e	vʲ è r o j i s p o vʲ é d a nʲ i j a
+vʲ e r o l ó m n o s tʲ	vʲ e r o l ó m n o s tʲ i
+vʲ e r o l ó m s t v o	vʲ e r o l ó m s t v a
+vʲ e r o n á l	vʲ e r o n á l a
+vʲ e r o o t s t ú p nʲ i k	vʲ e r o o t s t ú p nʲ i k a
+vʲ e r o o t s t ú p nʲ i ʧʲ e s t v o	vʲ e r o o t s t ú p nʲ i ʧʲ e s t v a
+vʲ e r o p o d ó bʲ i j e	vʲ e r o p o d ó bʲ i j a
+vʲ e r o tʲ e r pʲ í m o s tʲ	vʲ e r o tʲ e r pʲ í m o s tʲ i
+vʲ e r o u ʧʲ é nʲ i j e	vʲ e r o u ʧʲ é nʲ i j a
+vʲ e r o u ʧʲ í tʲ e lʲ	vʲ e r o u ʧʲ í tʲ e lʲ a
+vʲ e r o j á tʲ i j e	vʲ e r o j á tʲ i j a
+vʲ e r o j á t n o s tʲ	vʲ e r o j á t n o s tʲ i
+vʲ é r p	vʲ é r p a
+vʲ e r sʲ i fʲ i k á t o r	vʲ e r sʲ i fʲ i k á t o r a
+vʲ e r s t á k	vʲ e r s t a k á
+vʲ e r s t á lʲ ʃʃʲ i k	vʲ e r s t á lʲ ʃʃʲ i k a
+vʲ e r s t a ʧʲ ó k	vʲ e r s t a ʧʲ k á
+vʲ é r tʲ e l	vʲ é r tʲ e l a
+vʲ e r tʲ é p	vʲ e r tʲ é p a
+vʲ e r tʲ é p nʲ i k	vʲ e r tʲ é p nʲ i k a
+vʲ e r tʲ i k á l	vʲ e r tʲ i k á l a
+vʲ e r tʲ i k á lʲ	vʲ e r tʲ i k á lʲ i
+vʲ e r tʲ i k á lʲ n o s tʲ	vʲ e r tʲ i k á lʲ n o s tʲ i
+vʲ ó r t k o s tʲ	vʲ ó r t k o s tʲ i
+vʲ e r t lʲ ú g	vʲ e r t lʲ u g á
+vʲ e r t lʲ u ʒ ó k	vʲ e r t lʲ u ʒ k á
+vʲ e r t lʲ á v o s tʲ	vʲ e r t lʲ á v o s tʲ i
+vʲ e r t o g r á d	vʲ e r t o g r á d a
+vʲ e r t o d r ó m	vʲ e r t o d r ó m a
+vʲ e r t o lʲ ó t	vʲ e r t o lʲ ó t a
+vʲ e r t o lʲ ó t ʧʲ i k	vʲ e r t o lʲ ó t ʧʲ i k a
+vʲ e r t o p r á x	vʲ e r t o p r á x a
+vʲ e r t o p r á ʃ e s t v o	vʲ e r t o p r á ʃ e s t v a
+vʲ e r t ú n	vʲ e r t u n á
+vʲ e r t ú n	vʲ e r t u n á
+vʲ é r u j u ʃʃʲ i j	vʲ é r u j u ʃʃʲ e g o
+vʲ é r fʲ	vʲ é r fʲ i
+vʲ e r x o vʲ é n s t v o	vʲ e r x o vʲ é n s t v a
+vʲ e r x ó v n o s tʲ	vʲ e r x ó v n o s tʲ i
+vʲ e r x o v ó d	vʲ e r x o v ó d a
+vʲ e r x o v ó j	vʲ e r x o v ó g o
+vʲ e r x o g lʲ á d	vʲ e r x o g lʲ á d a
+vʲ e r x o g lʲ á d s t v o	vʲ e r x o g lʲ á d s t v a
+vʲ e r x o k ó n n i j	vʲ e r x o k ó n n o g o
+vʲ e r x o l á z	vʲ e r x o l á z a
+vʲ e r ʧʲ é nʲ i j e	vʲ e r ʧʲ é nʲ i j a
+vʲ e r ʃ í n nʲ i k	vʲ e r ʃ í n nʲ i k a
+vʲ e r ʃ í tʲ e lʲ	vʲ e r ʃ í tʲ e lʲ a
+vʲ é r ʃ nʲ i k	vʲ é r ʃ nʲ i k a
+vʲ e r ʃ ó k	vʲ e r ʃ k á
+vʲ é s	vʲ é s a
+vʲ e sʲ ó l o s tʲ	vʲ e sʲ ó l o s tʲ i
+vʲ e sʲ é lʲ j e	vʲ e sʲ é lʲ j a
+vʲ e sʲ e lʲ ʧʲ á k	vʲ e sʲ e lʲ ʧʲ a k á
+vʲ é s k o s tʲ	vʲ é s k o s tʲ i
+vʲ e s lʲ í ʃʃʲ e	vʲ e s lʲ í ʃʃ a
+vʲ e s l ó	vʲ e s l á
+vʲ e s o v ʃʃʲ í k	vʲ e s o v ʃʃʲ i k á
+vʲ e s ó m o s tʲ	vʲ e s ó m o s tʲ i
+vʲ é s t	vʲ é s t a
+vʲ e s t g ó t	vʲ e s t g ó t a
+vʲ é s tʲ e r n	vʲ é s tʲ e r n a
+vʲ e s tʲ i bʲ ú lʲ	vʲ e s tʲ i bʲ ú lʲ a
+vʲ é s t nʲ i k	vʲ é s t nʲ i k a
+vʲ e s t o v ó j	vʲ e s t o v ó g o
+vʲ e s t o v ʃʃʲ í k	vʲ e s t o v ʃʃʲ i k á
+vʲ é s tʲ	vʲ é s tʲ i
+vʲ e t vʲ í s t o s tʲ	vʲ e t vʲ í s t o s tʲ i
+vʲ e t v lʲ é nʲ i j e	vʲ e t v lʲ é nʲ i j a
+vʲ è t v r á ʧʲ	vʲ e t v r a ʧʲ á
+vʲ é t vʲ	vʲ é t vʲ i
+vʲ e tʲ e r á n	vʲ e tʲ e r á n a
+vʲ e tʲ e r á n s t v o	vʲ e tʲ e r á n s t v a
+vʲ e tʲ e rʲ i n á r	vʲ e tʲ e rʲ i n á r a
+vʲ è t n a d z ó r	vʲ è t n a d z ó r a
+vʲ e t ó ʃ nʲ i k	vʲ e t ó ʃ nʲ i k a
+vʲ e t ó ʃ nʲ i ʧʲ e s t v o	vʲ e t ó ʃ nʲ i ʧʲ e s t v a
+vʲ é t o ʃ	vʲ é t o ʃ i
+vʲ è t p ú n k t	vʲ è t p ú n k t a
+vʲ é t rʲ e nʲ i k	vʲ é t rʲ e nʲ i k a
+vʲ é t rʲ e n o s tʲ	vʲ é t rʲ e n o s tʲ i
+vʲ e t rʲ í l o	vʲ e t rʲ í l a
+vʲ e t r o b ó j	vʲ e t r o b ó j a
+vʲ e t r o v á l	vʲ e t r o v á l a
+vʲ e t r o g ó n	vʲ e t r o g ó n a
+vʲ e t r o g ó n	vʲ e t r o g ó n a
+vʲ è t r o d vʲ í g a tʲ e lʲ	vʲ è t r o d vʲ í g a tʲ e lʲ a
+vʲ e t r o l ó m	vʲ e t r o l ó m a
+vʲ e t r o mʲ é r	vʲ e t r o mʲ é r a
+bʲ e s p rʲ i s t r á s tʲ i j e	bʲ e s p rʲ i s t r á s tʲ i j a
+bʲ e s p rʲ i s t r á s t n o s tʲ	bʲ e s p rʲ i s t r á s t n o s tʲ i
+bʲ e s p rʲ i tʲ a z á tʲ e lʲ n o s tʲ	bʲ e s p rʲ i tʲ a z á tʲ e lʲ n o s tʲ i
+bʲ e s p rʲ i ʧʲ í n n o s tʲ	bʲ e s p rʲ i ʧʲ í n n o s tʲ i
+bʲ e s p rʲ i j ú t n o s tʲ	bʲ e s p rʲ i j ú t n o s tʲ i
+bʲ e s p r o s vʲ é t n o s tʲ	bʲ e s p r o s vʲ é t n o s tʲ i
+bʲ e s p ú t nʲ i k	bʲ e s p ú t nʲ i k a
+bʲ e s p ú t s t v o	bʲ e s p ú t s t v a
+bʲ e s p ú tʲ j e	bʲ e s p ú tʲ j a
+bʲ e s s vʲ á z n o s tʲ	bʲ e s s vʲ á z n o s tʲ i
+bʲ e s sʲ e z ó nʲ j e	bʲ e s sʲ e z ó nʲ j a
+bʲ e s sʲ e mʲ e r o v á nʲ i j e	bʲ e s sʲ e mʲ e r o v á nʲ i j a
+bʲ e s sʲ e r dʲ é ʧʲ i j e	bʲ e s sʲ e r dʲ é ʧʲ i j a
+bʲ e s sʲ e r dʲ é ʧʲ n o s tʲ	bʲ e s sʲ e r dʲ é ʧʲ n o s tʲ i
+bʲ e s sʲ í lʲ i j e	bʲ e s sʲ í lʲ i j a
+bʲ e s sʲ i s tʲ é m n o s tʲ	bʲ e s sʲ i s tʲ é m n o s tʲ i
+bʲ e s s l á vʲ i j e	bʲ e s s l á vʲ i j a
+bʲ e s s l á v n o s tʲ	bʲ e s s l á v n o s tʲ i
+bʲ e s s l o vʲ é s n o s tʲ	bʲ e s s l o vʲ é s n o s tʲ i
+bʲ e s s mʲ é n n o s tʲ	bʲ e s s mʲ é n n o s tʲ i
+bʲ e s s mʲ é r tʲ i j e	bʲ e s s mʲ é r tʲ i j a
+bʲ e s s mʲ é r t nʲ i k	bʲ e s s mʲ é r t nʲ i k a
+bʲ e s s mʲ é r t n o s tʲ	bʲ e s s mʲ é r t n o s tʲ i
+bʲ e s s m í s lʲ e n n o s tʲ	bʲ e s s m í s lʲ e n n o s tʲ i
+bʲ e s s m í s lʲ i j e	bʲ e s s m í s lʲ i j a
+bʲ e s s nʲ é ʒ n o s tʲ	bʲ e s s nʲ é ʒ n o s tʲ i
+bʲ e s s nʲ é ʒ j e	bʲ e s s nʲ é ʒ j a
+bʲ e s s ó vʲ e s t n o s tʲ	bʲ e s s ó vʲ e s t n o s tʲ i
+bʲ e s s o dʲ e r ʒ á tʲ e lʲ n o s tʲ	bʲ e s s o dʲ e r ʒ á tʲ e lʲ n o s tʲ i
+bʲ e s s o z n á tʲ e lʲ n o s tʲ	bʲ e s s o z n á tʲ e lʲ n o s tʲ i
+bʲ e s s o s l ó v n o s tʲ	bʲ e s s o s l ó v n o s tʲ i
+bʲ e s s o j ú zʲ i j e	bʲ e s s o j ú zʲ i j a
+bʲ e s s p ó r n o s tʲ	bʲ e s s p ó r n o s tʲ i
+bʲ e s s rʲ é b rʲ e nʲ i k	bʲ e s s rʲ é b rʲ e nʲ i k a
+bʲ e s s r ó ʧʲ n o s tʲ	bʲ e s s r ó ʧʲ n o s tʲ i
+bʲ e s s t r á s tʲ i j e	bʲ e s s t r á s tʲ i j a
+bʲ e s s t r á s t n o s tʲ	bʲ e s s t r á s t n o s tʲ i
+bʲ e s s t r á ʃ i j e	bʲ e s s t r á ʃ i j a
+bʲ e s s t í d nʲ i k	bʲ e s s t í d nʲ i k a
+bʲ e s s t í d n o s tʲ	bʲ e s s t í d n o s tʲ i
+bʲ e s s t í d s t v o	bʲ e s s t í d s t v a
+bʲ e s sʲ u ʒ é t n o s tʲ	bʲ e s sʲ u ʒ é t n o s tʲ i
+bʲ é s t	bʲ é s t a
+bʲ e s t á k t n o s tʲ	bʲ e s t á k t n o s tʲ i
+bʲ e s t o v á rʲ j e	bʲ e s t o v á rʲ j a
+bʲ e s t o l k ó v o s tʲ	bʲ e s t o l k ó v o s tʲ i
+bʲ é s t o l o ʧʲ	bʲ é s t o l o ʧʲ i
+bʲ é s t o l o ʧʲ	bʲ é s t o l o ʧʲ i
+bʲ e s t rʲ é pʲ e t n o s tʲ	bʲ e s t rʲ é pʲ e t n o s tʲ i
+bʲ e s t sʲ é l lʲ e r	bʲ e s t sʲ é l lʲ e r a
+bʲ e s f ó r mʲ e n n o s tʲ	bʲ e s f ó r mʲ e n n o s tʲ i
+bʲ e s x a r á k tʲ e r n o s tʲ	bʲ e s x a r á k tʲ e r n o s tʲ i
+bʲ e s xʲ í t r o s t n o s tʲ	bʲ e s xʲ í t r o s t n o s tʲ i
+bʲ e s x lʲ é bʲ j e	bʲ e s x lʲ é bʲ j a
+bʲ e s x ó z n o s tʲ	bʲ e s x ó z n o s tʲ i
+bʲ e s x o zʲ á j s t vʲ e n n o s tʲ	bʲ e s x o zʲ á j s t vʲ e n n o s tʲ i
+bʲ e s x rʲ e bʲ é t n o s tʲ	bʲ e s x rʲ e bʲ é t n o s tʲ i
+bʲ e s ʦ vʲ é t n o s tʲ	bʲ e s ʦ vʲ é t n o s tʲ i
+bʲ e s ʦ é lʲ n o s tʲ	bʲ e s ʦ é lʲ n o s tʲ i
+bʲ e s ʦ e n z ú r n o s tʲ	bʲ e s ʦ e n z ú r n o s tʲ i
+bʲ e s ʦ é n n o s tʲ	bʲ e s ʦ é n n o s tʲ i
+bʲ e s ʦ e rʲ e m ó n n o s tʲ	bʲ e s ʦ e rʲ e m ó n n o s tʲ i
+bʲ e s ʧʲ e l o vʲ é ʧʲ i j e	bʲ e s ʧʲ e l o vʲ é ʧʲ i j a
+bʲ e s ʧʲ e l o vʲ é ʧʲ n o s tʲ	bʲ e s ʧʲ e l o vʲ é ʧʲ n o s tʲ i
+bʲ e s ʧʲ é s t n o s tʲ	bʲ e s ʧʲ é s t n o s tʲ i
+bʲ e s ʧʲ é s tʲ j e	bʲ e s ʧʲ é s tʲ j a
+bʲ e s ʧʲ í nʲ i j e	bʲ e s ʧʲ í nʲ i j a
+bʲ e s ʧʲ í n s t v o	bʲ e s ʧʲ í n s t v a
+bʲ e s ʧʲ í s lʲ e n n o s tʲ	bʲ e s ʧʲ í s lʲ e n n o s tʲ i
+bʲ e s ʧʲ ú v s t vʲ e n n o s tʲ	bʲ e s ʧʲ ú v s t vʲ e n n o s tʲ i
+bʲ e s ʧʲ ú v s t vʲ i j e	bʲ e s ʧʲ ú v s t vʲ i j a
+bʲ e s ʃ a b á ʃ n o s tʲ	bʲ e s ʃ a b á ʃ n o s tʲ i
+bʲ e s ʃ ó r s t n o s tʲ	bʲ e s ʃ ó r s t n o s tʲ i
+bʲ e s ʃ ú m n o s tʲ	bʲ e s ʃ ú m n o s tʲ i
+bʲ e t a j í n	bʲ e t a j í n a
+bʲ e t a t r ó n	bʲ e t a t r ó n a
+bʲ e tʲ é lʲ	bʲ e tʲ é lʲ a
+bʲ e t ó n	bʲ e t ó n a
+bʲ e t o nʲ í r o v a nʲ i j e	bʲ e t o nʲ í r o v a nʲ i j a
+bʲ e t o nʲ í t	bʲ e t o nʲ í t a
+bʲ e t o n o v ó z	bʲ e t o n o v ó z a
+bʲ e t ò n o n a s ó s	bʲ e t ò n o n a s ó s a
+bʲ e t ó n ʃʃʲ i k	bʲ e t ó n ʃʃʲ i k a
+bʲ è f s t r ó g a n o v	bʲ è f s t r ó g a n o v a
+bʲ e ʧʲ e v nʲ í k	bʲ e ʧʲ e v nʲ i k á
+bʲ e ʃ a mʲ é lʲ	bʲ e ʃ a mʲ é lʲ i
+bʲ e ʃ b a r m á k	bʲ e ʃ b a r m á k a
+bʲ é ʃ e n s t v o	bʲ é ʃ e n s t v a
+a r xʲ i p á s t o r s t v o	a r xʲ i p á s t o r s t v a
+a r xʲ i p á s t i rʲ	a r xʲ i p á s t i rʲ a
+a r xʲ i pʲ e l á g	a r xʲ i pʲ e l á g a
+a r xʲ i p l ú t	a r xʲ i p l ú t a
+a r xʲ i s t r a tʲ í g	a r xʲ i s t r a tʲ í g a
+a r xʲ i tʲ é k t o r	a r xʲ i tʲ é k t o r a
+a r xʲ i t r á v	a r xʲ i t r á v a
+a r x o z á v r	a r x o z á v r a
+a r x ó n t	a r x ó n t a
+a r ʧʲ í nʲ e ʦ	a r ʧʲ í n ʦ a
+a r ʃ í n	a r ʃ í n a
+a r ʃ í n	a r ʃ í n a
+a r ʃ í n nʲ i k	a r ʃ í n nʲ i k a
+a r í k	a r í k a
+a rʲ j e r g á r d	a rʲ j e r g á r d a
+á s	á s a
+a s bʲ é s t	a s bʲ é s t a
+a s bʲ e s tʲ í t	a s bʲ e s tʲ í t a
+a s bʲ è s t o bʲ e t ó n	a s bʲ è s t o bʲ e t ó n a
+a s bʲ e s t o nʲ í t	a s bʲ e s t o nʲ í t a
+a s bʲ è s t o ʦ e mʲ é n t	a s bʲ è s t o ʦ e mʲ é n t a
+a s b o lʲ í t	a s b o lʲ í t a
+à s b o ʦ e mʲ é n t	à s b o ʦ e mʲ é n t a
+a sʲ e k s u á lʲ n o s tʲ	a sʲ e k s u á lʲ n o s tʲ i
+a sʲ é s s o r	a sʲ é s s o r a
+a sʲ é s s o r	a sʲ é s s o r a
+a sʲ í dʲ e t o n	a sʲ í dʲ e t o n a
+a sʲ i d ó l	a sʲ i d ó l a
+a sʲ i m mʲ e t rʲ í ʧʲ n o s tʲ	a sʲ i m mʲ e t rʲ í ʧʲ n o s tʲ i
+a s k a nʲ í t	a s k a nʲ í t a
+a s k a rʲ i d ó z	a s k a rʲ i d ó z a
+a s kʲ é r	a s kʲ é r a

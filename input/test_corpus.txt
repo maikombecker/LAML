@@ -1,2 +1,0 @@
-# this file contains nominative-genitive pairings of nonce words
-# they should ideally contain words from the gouskova 

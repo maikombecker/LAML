@@ -1,44 +1,44 @@
-#ipa.base	ipa.deriv	yerness
-b i zʲ 	b zʲ e j 	3.7536231884058
-ʧʲ i nʲ 	ʧ nʲ e j 	2.89855072463768
-d u m i lʲ 	d u m lʲ a 	3.49275362318841
-g a s u t 	g a s t a 	3.30434782608696
-gʲ e rʲ 	g rʲ e j 	3.63768115942029
-gʲ i d l a 	gʲ i dʲ i l 	2.36231884057971
-g l a 	gʲ i l 	3.26086956521739
-g n o 	g o n 	3.92753623188406
-g r o 	g u r 	2.52173913043478
-g u n 	g n a 	3.07246376811594
-k a s a p 	k a s p a 	4.28985507246377
-k a ʃ o p 	k a ʃ p a 	4.82608695652174
-k a sʲ 	k sʲ e j 	2.88405797101449
-kʲ e l 	k l a 	3.23188405797101
-k o lʲ 	k lʲ e j 	3.39130434782609
-k o r u t 	k o r t a 	3.02898550724638
-k t a 	k a t 	3.59420289855072
-l o t o p 	l o t p a 	3.76811594202899
-m i kʲ e t 	m i k t a 	4.57971014492754
-p o lʲ 	p lʲ e j 	4.20289855072464
-p o sʲ e n 	p o s n a 	5.21739130434783
-r a pʲ j a 	r a pʲ e j 	5.7536231884058
-r u d n a 	r u d a n 	2.53623188405797
-r i ʃ o n 	r i ʃ n a 	4.71014492753623
-ʃ a p 	ʃ p a 	2.98550724637681
-ʃʲ i r 	ʃ r a 	2.2463768115942
-s u lʲ 	s lʲ e j 	2.7536231884058
-tʲ o ʃʲ 	t ʃʲ e j 	3.59420289855072
-t m a 	t o m 	4.47826086956522
-t o gʲ e l 	t o g l o m 	5.33333333333333
-v u tʲ e r 	v u t r a 	4.69565217391304
-x a lʲ 	x lʲ e j 	3.28985507246377
-x l a 	xʲ e l 	3.59420289855072
-x o r k a 	x o r o k 	5.17391304347826
-x r o 	x a r 	2.55072463768116
-x u t a m 	x u t m a 	2.21739130434783
-ʒ o m 	ʒ m a 	5.26086956521739
-ʒ u sʲ e l 	ʒ u s l a 	6.21739130434783
-z m o 	zʲ e m 	3.92753623188406
-z n a 	z u n 	3.7536231884058
-z r o 	zʲ i r 	2.34782608695652
-z u rʲ 	z rʲ e j 	2.39130434782609
-z u t ʃ a 	z u t u ʃ 	2.30434782608696
+#ipa. base
+b i zʲ	b zʲ a
+ʧʲ i nʲ	ʧʲ nʲ a
+d u m i lʲ	d u m lʲ a
+g a s u t	g a s t a
+gʲ e rʲ	gʲ rʲ i 
+gʲ i d l a	gʲ i dʲ i l 
+g l a 	gʲ i l 
+g n o 	g o n 
+g r o 	g u r 
+g u n 	g n a 
+k a s a p 	k a s p a 
+k a ʃ o p 	k a ʃ p a 
+k a sʲ 	k sʲ e j 
+kʲ e l 	k l a 
+k o lʲ 	k lʲ e j 
+k o r u t 	k o r t a 
+k t a 	k a t 
+l o t o p 	l o t p a 
+m i kʲ e t 	m i k t a 
+p o lʲ 	p lʲ e j 
+p o sʲ e n 	p o s n a 
+r a pʲ j a 	r a pʲ e j 
+r u d n a 	r u d a n 
+r i ʃ o n 	r i ʃ n a 
+ʃ a p 	ʃ p a 
+ʃʲ i r 	ʃ r a 
+s u lʲ 	s lʲ e j 
+tʲ o ʃʲ 	t ʃʲ e j 
+t m a 	t o m 
+t o gʲ e l 	t o g l o m 
+v u tʲ e r 	v u t r a 
+x a lʲ 	x lʲ e j 
+x l a 	xʲ e l 
+x o r k a 	x o r o k 
+x r o 	x a r 
+x u t a m 	x u t m a 
+ʒ o m 	ʒ m a 
+ʒ u sʲ e l 	ʒ u s l a 
+z m o 	zʲ e m 
+z n a 	z u n 
+z r o 	zʲ i r 
+z u rʲ 	z rʲ e j 
+z u t ʃ a 	z u t u ʃ 

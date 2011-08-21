@@ -38,6 +38,7 @@ def read_sample(f_name):
 	f_name ---> name of input file (string type, must have extension)
 	'''
 	with open(f_name) as file:
+		#print [line.split('\t')	for line in [line.rstrip('\n') for line in file] if len(line) > 0 and re.match('#', line)==None]
 		return [(line[0].split(), line[1].split()) for line in [line.split('\t') 
 		for line in [line.rstrip('\n') for line in file] 
 		if len(line) > 0 and re.match('#', line)==None]]
@@ -113,3 +114,4 @@ def read_features(f_name):
 	return dict(feature_list)				
 #testing
 #print read_features("features.txt")
+#print read_sample("test.txt")
